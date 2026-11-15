@@ -1,0 +1,218 @@
+[
+  {
+    "number": 1,
+    "lesson": "10.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/DQ1F5h/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "10.2",
+    "caption": "Pending and unregistered identities",
+    "file": "diagrams/02.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20Example%20sear.png",
+    "bytes": 97597,
+    "sha256": "3f92a1068c83aa42654ed6b2c48811d1b8c3e40737f04b39feab33b029d84a57"
+  },
+  {
+    "number": 3,
+    "lesson": "10.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/03.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/aJdYBt/TransitionImage-Narrator-M.svg",
+    "bytes": 25080,
+    "sha256": "a257080850ec8a23fb843b2f87ac73c3a50499b489906eb62a324ab36c8ed02a"
+  },
+  {
+    "number": 4,
+    "lesson": "10.2",
+    "caption": "Section divider",
+    "file": "diagrams/04.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/2D0w2t/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 5,
+    "lesson": "10.2",
+    "caption": "Data indexing flashcard",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20definition-01_.png",
+    "bytes": 283699,
+    "sha256": "4ea587f7c57c2d8dde263e18f5201f4666be3fc92fbb9a9cb6cd292ef4aa9da6"
+  },
+  {
+    "number": 6,
+    "lesson": "10.2",
+    "caption": "Data retention flashcard",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20definition-02_.png",
+    "bytes": 287505,
+    "sha256": "deaa6e49563a8a0fa264b492aa508e685befce7591fa79a092574beb4defa1d8"
+  },
+  {
+    "number": 7,
+    "lesson": "10.2",
+    "caption": "Section divider",
+    "file": "diagrams/07.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/-byAIK/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 8,
+    "lesson": "10.2",
+    "caption": "Search categories",
+    "file": "diagrams/08.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%20M9%20L4%20Search.png",
+    "bytes": 362662,
+    "sha256": "ac57769e7c19f69cf5ea089e2734747ea02db3e014d251edc460a2508a1781c5"
+  },
+  {
+    "number": 9,
+    "lesson": "10.2",
+    "caption": "Recent Searches",
+    "file": "diagrams/09.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%209_NOPR.png",
+    "bytes": 67554,
+    "sha256": "2ee4584b9d5b0742bed66ea4098ed1621b9ea9938d83694e71e5b52b0c2549be"
+  },
+  {
+    "number": 10,
+    "lesson": "10.2",
+    "caption": "Saved Searches",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%2010_NOP.png",
+    "bytes": 63018,
+    "sha256": "a53cf90360b767f231348fcab6164a84ba87441df4cdaef58c8c2d060506c0dd"
+  },
+  {
+    "number": 11,
+    "lesson": "10.2",
+    "caption": "Suggested Searches",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%2011_NOP.png",
+    "bytes": 83877,
+    "sha256": "16d9c7cf60e0738005dc7c0a068abafcb9b9512241e1b0315c098bd89b6683a1"
+  },
+  {
+    "number": 12,
+    "lesson": "10.2",
+    "caption": "Search subscriptions",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%2012_NOP.png",
+    "bytes": 116252,
+    "sha256": "ae1596f04ea0b5df9e0001a457abe2d15923bb22f28231502145f3aae97385e4"
+  },
+  {
+    "number": 13,
+    "lesson": "10.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/13.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/Ohjncn/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 14,
+    "lesson": "10.3",
+    "caption": "Unquoted search terms",
+    "file": "diagrams/14.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20Quotation%20ma.png",
+    "bytes": 288989,
+    "sha256": "8862b5a34dd50c055969c5a3d82989a31f1ab18063c621890e18d479afb074de"
+  },
+  {
+    "number": 15,
+    "lesson": "10.3",
+    "caption": "Single-quoted search terms",
+    "file": "diagrams/15.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/ZK0AR6/SAISC%209%20Quotation%20ma.png",
+    "bytes": 290451,
+    "sha256": "02b5aeb7fca2f25a3feb94192719d7b03faeae4020c91e83b0cfc2407738fd41"
+  },
+  {
+    "number": 16,
+    "lesson": "10.3",
+    "caption": "Double-quoted phrase",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/-fcsTE/SAISC%209%20Quotation%20ma.png",
+    "bytes": 291550,
+    "sha256": "39dcf0d93276dddc0fc744557c10bfe3e25fbe22de8bf39ce6212c65c06ab3e9"
+  },
+  {
+    "number": 17,
+    "lesson": "10.3",
+    "caption": "Field-specific phrase",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/lDPOZp/SAISC%209%20Quotation%20ma.png",
+    "bytes": 322075,
+    "sha256": "e399becf4960c85825b576dd503130c157a06fa5a65026b12c3b15c5a17c9ca8"
+  },
+  {
+    "number": 18,
+    "lesson": "10.3",
+    "caption": "Section divider",
+    "file": "diagrams/18.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/qFYqHK/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 19,
+    "lesson": "10.3",
+    "caption": "Search help",
+    "file": "diagrams/19.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%2018_NOP.png",
+    "bytes": 455276,
+    "sha256": "586dfb8b42f87b51e90779d8948862ba877dc3db23901f4e426c2ceb7ce644b1"
+  },
+  {
+    "number": 20,
+    "lesson": "10.4",
+    "caption": "Access-request events",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%20M9%20L4%20Account.png",
+    "bytes": 463433,
+    "sha256": "621e9371a802c3b35a33e832e0115859677afee3023b67bb18178e92b0be9177"
+  },
+  {
+    "number": 21,
+    "lesson": "10.4",
+    "caption": "Account Activity",
+    "file": "diagrams/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/cHy7sH/SAISC%20M9%20L4%20Account.png",
+    "bytes": 447160,
+    "sha256": "82c622f07b0a098e9c240fc7697cce1c7e0cfd51e984b32ef7fd884b380da15b"
+  },
+  {
+    "number": 22,
+    "lesson": "10.4",
+    "caption": "Audit report list",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/O_hyyu/SAISC%20M9%20L4%20Search.png",
+    "bytes": 175908,
+    "sha256": "1b6550f9894bca3281c75f076049ce5366fa4e40c9f34c7e7efe5e5172463f9b"
+  },
+  {
+    "number": 23,
+    "lesson": "10.4",
+    "caption": "Identity event log",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%20M9%20L4%20Identity.png",
+    "bytes": 401914,
+    "sha256": "cf668ed3c4dd7d87098d8336c0981d43f3a39df2f1178a131f2f8c4a7d8daba7"
+  },
+  {
+    "number": 24,
+    "lesson": "10.4",
+    "caption": "Campaign reports",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3uinfld5polxq/scormcontent/assets/SAISC%209%20slide%2023_NOP.png",
+    "bytes": 485280,
+    "sha256": "4261483b6b233c1dc2823434a497b78e0229bfccb210527987f24a7ef88e288a"
+  }
+]

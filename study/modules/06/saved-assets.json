@@ -1,0 +1,443 @@
+[
+  {
+    "number": 1,
+    "lesson": "6.5",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/y7bBab/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "6.1",
+    "caption": "Onboarding implementation steps",
+    "file": "diagrams/02.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/BywVgaGO6HMEcxCi-mod05-cor.png",
+    "bytes": 303593,
+    "sha256": "601893afbf4551a23bc914f330f1ad91079ebc1ae13f9be9cd3bec1064160569"
+  },
+  {
+    "number": 3,
+    "lesson": "6.2",
+    "caption": "Non-authoritative configuration stage",
+    "file": "diagrams/03.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05_05_NOPROCESS_.png",
+    "bytes": 324484,
+    "sha256": "817e654966f89cc9b2df592cb15133e3397d24fdc6821a542265cd9327097d64"
+  },
+  {
+    "number": 4,
+    "lesson": "6.2",
+    "caption": "Account-to-identity correlation",
+    "file": "diagrams/04.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/correlation_diagram_small_.png",
+    "bytes": 58027,
+    "sha256": "14acd386fde50ab5fdb1c2709ea4f269deb6e503cfa19102b8c3f399762c3c20"
+  },
+  {
+    "number": 5,
+    "lesson": "6.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/05.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 6,
+    "lesson": "6.2",
+    "caption": "Correlation configuration",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/SAISC%20M5%20L2%20Matching.png",
+    "bytes": 251786,
+    "sha256": "5b11efed744dc270db84e34e4645149bd834391ca89273e4a6dabcd2fad8cf73"
+  },
+  {
+    "number": 7,
+    "lesson": "6.2",
+    "caption": "AI correlation recommendations",
+    "file": "diagrams/07.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/SAISC%20M5%20L2%20Account.png",
+    "bytes": 316246,
+    "sha256": "c9d86225e323a4e182f8361da06a572c1fd19f6f86c60bed938875adc9f1cef1"
+  },
+  {
+    "number": 8,
+    "lesson": "6.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/08.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/M4HVdI/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 9,
+    "lesson": "6.2",
+    "caption": "Section divider",
+    "file": "diagrams/09.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/qLG0bD/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 10,
+    "lesson": "6.2",
+    "caption": "Correlation test",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl_NOPROCESS_.png",
+    "bytes": 158151,
+    "sha256": "1b53bc6b30f855711070fa3dae7cee995c9e4cd6859d75d7e67ab1d4e3133b0f"
+  },
+  {
+    "number": 11,
+    "lesson": "6.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/11.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/l-WCUV/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 12,
+    "lesson": "6.2",
+    "caption": "Correlation comparison example",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05_nonauthorotativeproc.png",
+    "bytes": 90048,
+    "sha256": "88a6e7d21c1ca53b92cff3882c657c7a5b84d70581f1121b3efc8f72c9674369"
+  },
+  {
+    "number": 13,
+    "lesson": "6.2",
+    "caption": "Fallback email comparison",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/FgdivF/SAISC%20M5%20L2%20Account.png",
+    "bytes": 116021,
+    "sha256": "1cdb92c2494f03345dc6b07fad496f66a6df1d0717b6e69d155e8d20e46a061c"
+  },
+  {
+    "number": 14,
+    "lesson": "6.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/14.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/4FPfiN/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 15,
+    "lesson": "6.2",
+    "caption": "Section divider",
+    "file": "diagrams/15.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/TpT1EI/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 16,
+    "lesson": "6.2",
+    "caption": "Uncorrelated accounts report",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/SAISC%20M5%20L2%20Resolve.png",
+    "bytes": 228571,
+    "sha256": "eeaeef8c7122d485813bb64b34c293a1ea142133d6226d48f1ad87dbe90a034c"
+  },
+  {
+    "number": 17,
+    "lesson": "6.2",
+    "caption": "Manual correlation file",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/SAISC%20M5%20L2%20Perform.png",
+    "bytes": 8077,
+    "sha256": "640cb35d9ef8cb25de94b0ca062f8de717ddf0a3c16662f3bc677ca67ce1e875"
+  },
+  {
+    "number": 18,
+    "lesson": "6.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/18.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/81GM6N/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 19,
+    "lesson": "6.3",
+    "caption": "Account and entitlement aggregation stage",
+    "file": "diagrams/19.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05_06_NOPROCESS_.png",
+    "bytes": 289516,
+    "sha256": "7822a34c97316ddade82eacbf8806f8481dc05298ffc54e78d7bb0f972a03c3a"
+  },
+  {
+    "number": 20,
+    "lesson": "6.3",
+    "caption": "Entitlement catalog",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl9_NOPROCESS_.png",
+    "bytes": 219097,
+    "sha256": "05db89e08cdeb9c3b67bf1919a0a0a23399df3d78c85ae93644fc05eb67801e2"
+  },
+  {
+    "number": 21,
+    "lesson": "6.3",
+    "caption": "Entitlement aggregation process",
+    "file": "diagrams/21.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/IconBanner-Process-750_NOP.svg",
+    "bytes": 1642,
+    "sha256": "21263dc4cb5dc061c79b6c4bfd918d0563f33e04cb78b584ab041793722af5e9"
+  },
+  {
+    "number": 22,
+    "lesson": "6.3",
+    "caption": "Entitlement collection",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-06_NOPROCESS_.png",
+    "bytes": 51817,
+    "sha256": "cafc578e5533d1a55772fcc4ee484310b1b7145d3634cfb4150a8e713cdcdf14"
+  },
+  {
+    "number": 23,
+    "lesson": "6.3",
+    "caption": "Entitlement schema",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-07_NOPROCESS_.png",
+    "bytes": 61585,
+    "sha256": "f6693d028da959f83b2649905864bf5f3a604c9d4e13a05ca4af4a63c3b21614"
+  },
+  {
+    "number": 24,
+    "lesson": "6.3",
+    "caption": "Read the first entitlement",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-08_NOPROCESS_.png",
+    "bytes": 70290,
+    "sha256": "2c3aca59439175f0c2e885e3dd452591f2c3922e5e7d34dac89f6d3c78621115"
+  },
+  {
+    "number": 25,
+    "lesson": "6.3",
+    "caption": "Read the remaining entitlements",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-09_NOPROCESS_.png",
+    "bytes": 82546,
+    "sha256": "cc02ffc8772e72aa8358472ebbb3751ac52aeda94d2bcc9744d07c59f5fe66ef"
+  },
+  {
+    "number": 26,
+    "lesson": "6.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/26.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/qK5Vod/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 27,
+    "lesson": "6.3",
+    "caption": "Entitlement management transition",
+    "file": "diagrams/27.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/5c9CzK/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 28,
+    "lesson": "6.3",
+    "caption": "Manage source entitlements",
+    "file": "diagrams/28.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl10_NOPROCESS_.png",
+    "bytes": 171991,
+    "sha256": "4a3c805d1ebd0948b5037067ffd745003fddffcc3e16d7f512bc4f6b00ec3c3f"
+  },
+  {
+    "number": 29,
+    "lesson": "6.3",
+    "caption": "Entitlement metadata",
+    "file": "diagrams/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl11_NOPROCESS_.png",
+    "bytes": 184250,
+    "sha256": "b10caa91bcaf004e3144bbeda2841de2c3fbdacb9bc34cc94c3ff8b6e1b04da6"
+  },
+  {
+    "number": 30,
+    "lesson": "6.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/30.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/R8JeI0/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 31,
+    "lesson": "6.3",
+    "caption": "Central entitlement data",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl12_NOPROCESS_.png",
+    "bytes": 241443,
+    "sha256": "955904b056d42f0ac9e8917e33a201431f8bf81a09e4c42257a57066ad5fba3c"
+  },
+  {
+    "number": 32,
+    "lesson": "6.3",
+    "caption": "GenAI entitlement descriptions",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl13_NOPROCESS_.png",
+    "bytes": 205018,
+    "sha256": "96aaed2966486093a3f9dadb2294729305cc82ad0b18b6f92f7ae88bb6e7e9cd"
+  },
+  {
+    "number": 33,
+    "lesson": "6.4",
+    "caption": "Identity data validation stage",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05_07_NOPROCESS_.png",
+    "bytes": 338417,
+    "sha256": "a97c7bf0e295da7e4c94a6d31b9bcc1d524f445b51cef2ce285df7a59f731828"
+  },
+  {
+    "number": 34,
+    "lesson": "6.4",
+    "caption": "Identity navigation",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/DVHJuG/mod05-correl14_NOPROCESS_.png",
+    "bytes": 170933,
+    "sha256": "429310a2e06646d9c850c12514637db67adabc58517cbf22af0dcc11917bef63"
+  },
+  {
+    "number": 35,
+    "lesson": "6.4",
+    "caption": "Identity details",
+    "file": "diagrams/35.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl27_NOPROCESS_.png",
+    "bytes": 113406,
+    "sha256": "7d4091ac52699e21a5c0fb596a895b20fca67e2d879c9c8fd609841358c1ed92"
+  },
+  {
+    "number": 36,
+    "lesson": "6.4",
+    "caption": "Identity attributes",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl15_NOPROCESS_.png",
+    "bytes": 221673,
+    "sha256": "6c3f7d1c138631a5d28f4b1c2383322d6dd83c90c9cf96e2d1a2b0c73c6a116d"
+  },
+  {
+    "number": 37,
+    "lesson": "6.4",
+    "caption": "Assigned access",
+    "file": "diagrams/37.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl16_NOPROCESS_.png",
+    "bytes": 132669,
+    "sha256": "3978f56da0da088699b8abb6897ad084e3f41cc098575a22702380a9822e7dfd"
+  },
+  {
+    "number": 38,
+    "lesson": "6.4",
+    "caption": "Roles",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-001_NOPROCESS.png",
+    "bytes": 114203,
+    "sha256": "ed906d0e13d9a23a324f9f1f8c51525ff17bf7d2fa8de5b6127b0449bd0a8819"
+  },
+  {
+    "number": 39,
+    "lesson": "6.4",
+    "caption": "Access profiles",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-002_NOPROCESS.png",
+    "bytes": 119684,
+    "sha256": "bb5ec7f4ea9ef6e11950f4941ea9bbaf297c9efce4728b1eafe3e659d4d41121"
+  },
+  {
+    "number": 40,
+    "lesson": "6.4",
+    "caption": "Entitlements",
+    "file": "diagrams/40.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-003_NOPROCESS.png",
+    "bytes": 110163,
+    "sha256": "925d4f89a45d020f452bfa677043e4d1b2f0402c942d27ea7a00b127bf369279"
+  },
+  {
+    "number": 41,
+    "lesson": "6.4",
+    "caption": "Assigned applications",
+    "file": "diagrams/41.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl-004_NOPROCESS.png",
+    "bytes": 134028,
+    "sha256": "12e351cfa4bda440fcd2f33f059a33d65b6b1d5a8744e77ac1065681204ef416"
+  },
+  {
+    "number": 42,
+    "lesson": "6.4",
+    "caption": "Entitlement details",
+    "file": "diagrams/42.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl17_NOPROCESS_.png",
+    "bytes": 114993,
+    "sha256": "d87d82e6830fa967788c6cceb4c53b6160e1ad3d7b0e2b2b3dcb106c716f9624"
+  },
+  {
+    "number": 43,
+    "lesson": "6.4",
+    "caption": "Identity accounts",
+    "file": "diagrams/43.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl18_NOPROCESS_.png",
+    "bytes": 140100,
+    "sha256": "2b5e4165722c411951f7eafdbba82df6a8edcf041909b7377ee6530e8599b7b7"
+  },
+  {
+    "number": 44,
+    "lesson": "6.4",
+    "caption": "Account attributes",
+    "file": "diagrams/44.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl19_NOPROCESS_.png",
+    "bytes": 163599,
+    "sha256": "f1b2c57f8cd0ebab878a017111005241d4fd4da4190e43a7af29ebad18e2c566"
+  },
+  {
+    "number": 45,
+    "lesson": "6.4",
+    "caption": "Accounts sorted by source",
+    "file": "diagrams/45.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl20_NOPROCESS_.png",
+    "bytes": 181576,
+    "sha256": "8bfd6a7437fd9ebc19f572291fdbf9e999975f60acce78a3d0515005ccafc08d"
+  },
+  {
+    "number": 46,
+    "lesson": "6.4",
+    "caption": "Narrator transition",
+    "file": "diagrams/46.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/Y-Rvc-/TransitionImage-Narrator-T.svg",
+    "bytes": 16241,
+    "sha256": "07e5cdb17f177dfcb011af40607ea8b53759c8a545762b4cb5219f0d624625db"
+  },
+  {
+    "number": 47,
+    "lesson": "6.4",
+    "caption": "Entitlement assignments",
+    "file": "diagrams/47.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl21_NOPROCESS_.png",
+    "bytes": 156161,
+    "sha256": "bb856899b448c2639f35bcd7bc9fe833d9504ba12851d70ae27cdccf32e8b6bd"
+  },
+  {
+    "number": 48,
+    "lesson": "6.4",
+    "caption": "Work reassignment",
+    "file": "diagrams/48.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/mod05-correl212_NOPROCESS_.png",
+    "bytes": 153369,
+    "sha256": "0b2ccfaec643ad55eb94309d77de5b2b8fa5d39f0e830fa22f050699c1a9e294"
+  },
+  {
+    "number": 49,
+    "lesson": "6.4",
+    "caption": "Events",
+    "file": "diagrams/49.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/30zhv03zqmkwa/scormcontent/assets/83o1fB/mod05-correl212_NOPROCESS_.png",
+    "bytes": 207081,
+    "sha256": "4b7c2b32124125380e2e4ca44c8719739480662ad5d291bd3d1d3499872e9bea"
+  }
+]

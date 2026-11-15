@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 900">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Poppins-Light, Poppins;
+        font-size: 76.09px;
+        font-weight: 300;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #223f96;
+      }
+
+      .cls-5 {
+        fill: #df5635;
+      }
+
+      .cls-6 {
+        stroke: #bdc2c7;
+      }
+
+      .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-6, .cls-8 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: #263c8d;
+        font-family: Poppins-Regular, Poppins;
+        font-size: 36px;
+      }
+
+      .cls-4 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 38.76px;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        stroke: #9bcc56;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        fill: #e7f4fc;
+        stroke: #bbbfc4;
+      }
+    </style>
+  </defs>
+  <g id="Container_1" data-name="Container 1">
+    <rect class="cls-2" y="-2.94" width="1920" height="900"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-8" x="350.99" y="416.6" width="469.79" height="126.64"/>
+      <rect class="cls-6" x="385.2" y="567.34" width="401.36" height="92.24"/>
+      <text class="cls-9" transform="translate(482.7 628.24)"><tspan x="0" y="0">Contracted</tspan></text>
+      <text class="cls-4" transform="translate(441.8 492.22)"><tspan x="0" y="0">Lifecycle State</tspan></text>
+      <rect class="cls-6" x="350.99" y="543.23" width="469.79" height="139.32"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="1120.01" y="416.6" width="469.79" height="126.64"/>
+      <rect class="cls-6" x="1154.22" y="567.34" width="401.36" height="92.24"/>
+      <text class="cls-9" transform="translate(1219.22 628.24)"><tspan x="0" y="0">Not Contracted</tspan></text>
+      <text class="cls-4" transform="translate(1210.82 492.22)"><tspan x="0" y="0">Lifecycle State</tspan></text>
+      <rect class="cls-6" x="1120.01" y="543.23" width="469.79" height="139.32"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M1314.9,306.99v7c-.01,8.66,2.8,17.08,8,24"/>
+      <path class="cls-7" d="M1328.9,251.59c-4.4,3.75-7.92,8.41-10.34,13.66-2.42,5.25-3.67,10.96-3.66,16.74v8"/>
+      <path class="cls-7" d="M1354.9,241.99c-6.63,0-13.16,1.64-19,4.79"/>
+      <path class="cls-7" d="M1394.9,288.99v-7c0-8.15-2.49-16.11-7.13-22.81-4.65-6.7-11.23-11.82-18.87-14.67"/>
+      <path class="cls-7" d="M1386.91,337.99c5.2-6.92,8.01-15.34,8-24v-11"/>
+      <path class="cls-7" d="M1300.89,267.99c-1.13,4.48-1.7,9.09-1.7,13.71v32.58c-.01,8.2,1.79,16.29,5.28,23.71"/>
+      <path class="cls-7" d="M1327.9,232.99c-9.23,5.12-16.82,12.75-21.9,22"/>
+      <path class="cls-7" d="M1385.28,234.99c-9.04-5.89-19.59-9.02-30.38-9h0c-6.15,0-12.26,1.01-18.08,3"/>
+      <path class="cls-7" d="M1410.62,314.28v-32.58c.02-14.45-5.59-28.34-15.65-38.71"/>
+      <path class="cls-7" d="M1405.33,337.99c1.79-3.83,3.14-7.86,4-12"/>
+      <path class="cls-7" d="M1378.9,313.99v-32c0-6.37-2.53-12.47-7.03-16.97-4.5-4.5-10.61-7.03-16.97-7.03-4.01,0-7.96,1.01-11.49,2.93s-6.51,4.7-8.68,8.07"/>
+      <path class="cls-7" d="M1354.9,337.99c4.21,0,8.35-1.11,12-3.21,3.65-2.11,6.68-5.14,8.79-8.79"/>
+      <path class="cls-7" d="M1330.9,281.99v32c0,3.96.98,7.86,2.85,11.35,1.87,3.49,4.58,6.46,7.88,8.65"/>
+      <path class="cls-7" d="M1355.9,321.93c1.93-.24,3.71-1.18,5-2.65,1.29-1.46,2-3.34,2-5.29v-21"/>
+      <path class="cls-7" d="M1362.9,281.99c0-2.12-.84-4.16-2.34-5.66-1.5-1.5-3.54-2.34-5.66-2.34s-4.16.84-5.66,2.34c-1.5,1.5-2.34,3.54-2.34,5.66v32c0,1.4.37,2.78,1.07,4"/>
+    </g>
+    <g>
+      <circle class="cls-5" cx="1359.4" cy="167.46" r="25.4"/>
+      <text class="cls-1" transform="translate(1333.75 163.39)"><tspan x="0" y="0">_</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-3" x="884.42" y="516.38" width="137.87" height="53.71"/>
+      <polygon class="cls-3" points="1086.08 543.23 1011.08 499.93 1011.08 586.53 1086.08 543.23"/>
+    </g>
+  </g>
+</svg>

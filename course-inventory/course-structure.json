@@ -1,0 +1,201 @@
+{
+  "course": "Set Up and Administer Identity Security Cloud",
+  "verified_date": "2026-11-15",
+  "teaching_module_count": 13,
+  "internal_lesson_count": 70,
+  "next_steps_lesson_count": 1,
+  "internal_learning_pages_including_next_steps": 71,
+  "wrap_up_item_count": 3,
+  "top_level_entry_count": 16,
+  "duration_minutes": 795,
+  "modules": [
+    {
+      "module": "Overview",
+      "lessons": [
+        "Overview"
+      ],
+      "number": 1,
+      "duration_minutes": 10,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275063"
+    },
+    {
+      "module": "Identity Security Cloud overview",
+      "lessons": [
+        "Overview",
+        "Identity Security Cloud overview",
+        "Primary ISC processes",
+        "Getting started with Identity Security Cloud",
+        "Recap"
+      ],
+      "number": 2,
+      "duration_minutes": 70,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+    },
+    {
+      "module": "Tenant configuration",
+      "lessons": [
+        "Overview",
+        "Tenant architecture",
+        "Global configurations",
+        "Implementation strategies",
+        "Virtual appliance administration",
+        "Recap"
+      ],
+      "number": 3,
+      "duration_minutes": 55,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+    },
+    {
+      "module": "Connectivity",
+      "lessons": [
+        "Overview",
+        "Key terminology and components",
+        "Architecture and connectors",
+        "User and application onboarding",
+        "Recap"
+      ],
+      "number": 4,
+      "duration_minutes": 80,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+    },
+    {
+      "module": "Onboarding identities (authoritative sources)",
+      "lessons": [
+        "Overview",
+        "Identity overview",
+        "Clean source data",
+        "Configure authoritative sources",
+        "Aggregate authoritative data",
+        "Identity exceptions",
+        "Recap"
+      ],
+      "number": 5,
+      "duration_minutes": 70,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+    },
+    {
+      "module": "Onboarding identities (non-authoritative sources)",
+      "lessons": [
+        "Overview",
+        "Account correlation",
+        "Entitlement aggregation",
+        "Reviewing identity data",
+        "Recap"
+      ],
+      "number": 6,
+      "duration_minutes": 80,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+    },
+    {
+      "module": "Define and maintain an access model",
+      "lessons": [
+        "Overview",
+        "Access model overview",
+        "Components and relationships",
+        "Access model best practices",
+        "Recap"
+      ],
+      "number": 7,
+      "duration_minutes": 65,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+    },
+    {
+      "module": "Provisioning overview and monitoring",
+      "lessons": [
+        "Overview",
+        "The provisioning process",
+        "Provisioning processes within the fulfillment phase",
+        "Setting up lifecycle states",
+        "Automating role assignments",
+        "Synchronizing attributes",
+        "Monitoring provisioning",
+        "Recap"
+      ],
+      "number": 8,
+      "duration_minutes": 85,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+    },
+    {
+      "module": "Access Requests",
+      "lessons": [
+        "Overview",
+        "Access requests overview",
+        "Configuring access items for requests",
+        "Access request administration",
+        "Recap"
+      ],
+      "number": 9,
+      "duration_minutes": 50,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+    },
+    {
+      "module": "Search and reporting",
+      "lessons": [
+        "Overview",
+        "Understanding Search",
+        "Structuring a search",
+        "Creating data reports",
+        "Recap"
+      ],
+      "number": 10,
+      "duration_minutes": 65,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+    },
+    {
+      "module": "AI-Driven identity security",
+      "lessons": [
+        "Overview",
+        "SailPoint, AI, and ML",
+        "Access Insights",
+        "Access Modeling",
+        "Recommendations",
+        "Activity Insights",
+        "Recap"
+      ],
+      "number": 11,
+      "duration_minutes": 90,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+    },
+    {
+      "module": "Governance",
+      "lessons": [
+        "Overview",
+        "What is governance?",
+        "Certification campaigns",
+        "Reviewing certifications",
+        "Policy overview",
+        "Recap"
+      ],
+      "number": 12,
+      "duration_minutes": 45,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+    },
+    {
+      "module": "Workflows",
+      "lessons": [
+        "Overview",
+        "Workflows overview",
+        "Building a workflow",
+        "Managing workflows",
+        "Recap"
+      ],
+      "number": 13,
+      "duration_minutes": 30,
+      "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+    }
+  ],
+  "wrap_up": [
+    [
+      "Assessment",
+      574610
+    ],
+    [
+      "Course Rating",
+      663548
+    ],
+    [
+      "Next Steps",
+      275097
+    ]
+  ]
+}

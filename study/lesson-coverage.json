@@ -1,0 +1,702 @@
+[
+  {
+    "module_number": 1,
+    "module": "Overview",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "5 retained files across module; 2 background-only assets not saved",
+    "expanded_interactions": "Lesson text inspected; see module coverage.json",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275063"
+  },
+  {
+    "module_number": 2,
+    "module": "Identity Security Cloud overview",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "44 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+  },
+  {
+    "module_number": 2,
+    "module": "Identity Security Cloud overview",
+    "lesson_number": 2,
+    "lesson": "Identity Security Cloud overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "44 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+  },
+  {
+    "module_number": 2,
+    "module": "Identity Security Cloud overview",
+    "lesson_number": 3,
+    "lesson": "Primary ISC processes",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "44 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+  },
+  {
+    "module_number": 2,
+    "module": "Identity Security Cloud overview",
+    "lesson_number": 4,
+    "lesson": "Getting started with Identity Security Cloud",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "44 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+  },
+  {
+    "module_number": 2,
+    "module": "Identity Security Cloud overview",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "44 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275064"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 2,
+    "lesson": "Tenant architecture",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 3,
+    "lesson": "Global configurations",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 4,
+    "lesson": "Implementation strategies",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 5,
+    "lesson": "Virtual appliance administration",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 3,
+    "module": "Tenant configuration",
+    "lesson_number": 6,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275065"
+  },
+  {
+    "module_number": 4,
+    "module": "Connectivity",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "41 retained files across module; 3 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, three source accordions, four connector features and configuration tab pairs, five source configuration markers, five automatic-discovery steps and three manual-discovery panels read. Flashcard back text available in page.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+  },
+  {
+    "module_number": 4,
+    "module": "Connectivity",
+    "lesson_number": 2,
+    "lesson": "Key terminology and components",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "41 retained files across module; 3 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, three source accordions, four connector features and configuration tab pairs, five source configuration markers, five automatic-discovery steps and three manual-discovery panels read. Flashcard back text available in page.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+  },
+  {
+    "module_number": 4,
+    "module": "Connectivity",
+    "lesson_number": 3,
+    "lesson": "Architecture and connectors",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "41 retained files across module; 3 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, three source accordions, four connector features and configuration tab pairs, five source configuration markers, five automatic-discovery steps and three manual-discovery panels read. Flashcard back text available in page.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+  },
+  {
+    "module_number": 4,
+    "module": "Connectivity",
+    "lesson_number": 4,
+    "lesson": "User and application onboarding",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "41 retained files across module; 3 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, three source accordions, four connector features and configuration tab pairs, five source configuration markers, five automatic-discovery steps and three manual-discovery panels read. Flashcard back text available in page.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+  },
+  {
+    "module_number": 4,
+    "module": "Connectivity",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "41 retained files across module; 3 background-only assets not saved",
+    "expanded_interactions": "All continuation sections, three source accordions, four connector features and configuration tab pairs, five source configuration markers, five automatic-discovery steps and three manual-discovery panels read. Flashcard back text available in page.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275066"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 2,
+    "lesson": "Identity overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 3,
+    "lesson": "Clean source data",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 4,
+    "lesson": "Configure authoritative sources",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 5,
+    "lesson": "Aggregate authoritative data",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 6,
+    "lesson": "Identity exceptions",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 5,
+    "module": "Onboarding identities (authoritative sources)",
+    "lesson_number": 7,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "39 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; four identity markers, three component tabs, seven onboarding markers, three data-cleaning tabs, 23 source/profile/manager markers, six aggregation panels and three exception accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275067"
+  },
+  {
+    "module_number": 6,
+    "module": "Onboarding identities (non-authoritative sources)",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "49 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "Overview update and seven onboarding markers; nine correlation markers; all five entitlement process panels; all fifteen identity-review markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+  },
+  {
+    "module_number": 6,
+    "module": "Onboarding identities (non-authoritative sources)",
+    "lesson_number": 2,
+    "lesson": "Account correlation",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "49 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "Overview update and seven onboarding markers; nine correlation markers; all five entitlement process panels; all fifteen identity-review markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+  },
+  {
+    "module_number": 6,
+    "module": "Onboarding identities (non-authoritative sources)",
+    "lesson_number": 3,
+    "lesson": "Entitlement aggregation",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "49 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "Overview update and seven onboarding markers; nine correlation markers; all five entitlement process panels; all fifteen identity-review markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+  },
+  {
+    "module_number": 6,
+    "module": "Onboarding identities (non-authoritative sources)",
+    "lesson_number": 4,
+    "lesson": "Reviewing identity data",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "49 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "Overview update and seven onboarding markers; nine correlation markers; all five entitlement process panels; all fifteen identity-review markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+  },
+  {
+    "module_number": 6,
+    "module": "Onboarding identities (non-authoritative sources)",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "49 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "Overview update and seven onboarding markers; nine correlation markers; all five entitlement process panels; all fifteen identity-review markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275068"
+  },
+  {
+    "module_number": 7,
+    "module": "Define and maintain an access model",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "26 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lesson notes from the earlier capture, including component explanations, model-building and assignment panels, and three best-practice tabs.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+  },
+  {
+    "module_number": 7,
+    "module": "Define and maintain an access model",
+    "lesson_number": 2,
+    "lesson": "Access model overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "26 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lesson notes from the earlier capture, including component explanations, model-building and assignment panels, and three best-practice tabs.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+  },
+  {
+    "module_number": 7,
+    "module": "Define and maintain an access model",
+    "lesson_number": 3,
+    "lesson": "Components and relationships",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "26 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lesson notes from the earlier capture, including component explanations, model-building and assignment panels, and three best-practice tabs.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+  },
+  {
+    "module_number": 7,
+    "module": "Define and maintain an access model",
+    "lesson_number": 4,
+    "lesson": "Access model best practices",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "26 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lesson notes from the earlier capture, including component explanations, model-building and assignment panels, and three best-practice tabs.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+  },
+  {
+    "module_number": 7,
+    "module": "Define and maintain an access model",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "26 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lesson notes from the earlier capture, including component explanations, model-building and assignment panels, and three best-practice tabs.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275069"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 2,
+    "lesson": "The provisioning process",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 3,
+    "lesson": "Provisioning processes within the fulfillment phase",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 4,
+    "lesson": "Setting up lifecycle states",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 5,
+    "lesson": "Automating role assignments",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 6,
+    "lesson": "Synchronizing attributes",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 7,
+    "lesson": "Monitoring provisioning",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 8,
+    "module": "Provisioning overview and monitoring",
+    "lesson_number": 8,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "50 retained files across module; 5 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; both trigger tabs and five plan markers; five bank-example panels; three create-account markers, three attribute tabs and three password accordions; lifecycle assignment tabs, three action markers and nine example panels; four role accordions; three sync markers; four monitoring accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275070"
+  },
+  {
+    "module_number": 9,
+    "module": "Access Requests",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "45 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three process markers, four user request steps, two recommendation accordions, four tracking markers, four configuration process panels and five approval configuration markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+  },
+  {
+    "module_number": 9,
+    "module": "Access Requests",
+    "lesson_number": 2,
+    "lesson": "Access requests overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "45 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three process markers, four user request steps, two recommendation accordions, four tracking markers, four configuration process panels and five approval configuration markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+  },
+  {
+    "module_number": 9,
+    "module": "Access Requests",
+    "lesson_number": 3,
+    "lesson": "Configuring access items for requests",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "45 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three process markers, four user request steps, two recommendation accordions, four tracking markers, four configuration process panels and five approval configuration markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+  },
+  {
+    "module_number": 9,
+    "module": "Access Requests",
+    "lesson_number": 4,
+    "lesson": "Access request administration",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "45 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three process markers, four user request steps, two recommendation accordions, four tracking markers, four configuration process panels and five approval configuration markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+  },
+  {
+    "module_number": 9,
+    "module": "Access Requests",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "45 retained files across module; 6 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three process markers, four user request steps, two recommendation accordions, four tracking markers, four configuration process panels and five approval configuration markers read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275071"
+  },
+  {
+    "module_number": 10,
+    "module": "Search and reporting",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "24 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; eight search-use/management accordions, two availability-card backs, four quotation-card explanations, three operator tabs, five syntax accordions and four campaign-report accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+  },
+  {
+    "module_number": 10,
+    "module": "Search and reporting",
+    "lesson_number": 2,
+    "lesson": "Understanding Search",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "24 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; eight search-use/management accordions, two availability-card backs, four quotation-card explanations, three operator tabs, five syntax accordions and four campaign-report accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+  },
+  {
+    "module_number": 10,
+    "module": "Search and reporting",
+    "lesson_number": 3,
+    "lesson": "Structuring a search",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "24 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; eight search-use/management accordions, two availability-card backs, four quotation-card explanations, three operator tabs, five syntax accordions and four campaign-report accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+  },
+  {
+    "module_number": 10,
+    "module": "Search and reporting",
+    "lesson_number": 4,
+    "lesson": "Creating data reports",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "24 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; eight search-use/management accordions, two availability-card backs, four quotation-card explanations, three operator tabs, five syntax accordions and four campaign-report accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+  },
+  {
+    "module_number": 10,
+    "module": "Search and reporting",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "24 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; eight search-use/management accordions, two availability-card backs, four quotation-card explanations, three operator tabs, five syntax accordions and four campaign-report accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275072"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 2,
+    "lesson": "SailPoint, AI, and ML",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 3,
+    "lesson": "Access Insights",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 4,
+    "lesson": "Access Modeling",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 5,
+    "lesson": "Recommendations",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 6,
+    "lesson": "Activity Insights",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 11,
+    "module": "AI-Driven identity security",
+    "lesson_number": 7,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "61 retained files across module; 4 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three service tabs, four peer-analysis panels, five outlier accordions, three history markers, eight history panels, four Role Insights markers, nine discovery panels and five activity accordions read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/275073"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 2,
+    "lesson": "What is governance?",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 3,
+    "lesson": "Certification campaigns",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 4,
+    "lesson": "Reviewing certifications",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 5,
+    "lesson": "Policy overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 12,
+    "module": "Governance",
+    "lesson_number": 6,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "40 retained files across module; 7 background-only assets not saved",
+    "expanded_interactions": "All continuation sections; three definitions, four phase tabs, five campaign-object markers, three filter markers, four email accordions, three reassignment panels, four completion accordions, eight review markers and two policy-creation panels read.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448156"
+  },
+  {
+    "module_number": 13,
+    "module": "Workflows",
+    "lesson_number": 1,
+    "lesson": "Overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "27 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+  },
+  {
+    "module_number": 13,
+    "module": "Workflows",
+    "lesson_number": 2,
+    "lesson": "Workflows overview",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "27 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+  },
+  {
+    "module_number": 13,
+    "module": "Workflows",
+    "lesson_number": 3,
+    "lesson": "Building a workflow",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "27 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+  },
+  {
+    "module_number": 13,
+    "module": "Workflows",
+    "lesson_number": 4,
+    "lesson": "Managing workflows",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "27 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+  },
+  {
+    "module_number": 13,
+    "module": "Workflows",
+    "lesson_number": 5,
+    "lesson": "Recap",
+    "notes_status": "English paraphrased study notes available",
+    "images_status": "27 retained files across module; complete source image inventory unverified",
+    "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+    "source_url": "https://university.sailpoint.com/set-up-and-administer-identity-security-cloud/448158"
+  }
+]

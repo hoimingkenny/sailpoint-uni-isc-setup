@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Illustration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1691.12" y1="-1895.76" x2="768.86" y2="-973.5" gradientTransform="translate(0 -626.34) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#54c0e8"/>
+      <stop offset=".4" stop-color="#2394e1"/>
+      <stop offset="1" stop-color="#0033a1"/>
+    </linearGradient>
+  </defs>
+  <path id="BG_2" data-name="BG 2" class="cls-2" d="M536.41,7.5h850c55.19,0,100,44.81,100,100v864c0,55.74-45.26,101-101,101h-848c-55.74,0-101-45.26-101-101V107.5c0-55.19,44.81-100,100-100Z"/>
+  <g>
+    <path class="cls-1" d="M847.16,383.46c-60.99,40.37-98.49,106.58-100.14,179.25M1094.48,383.46c60.38,38.67,97.44,104.78,99.03,179.25M878.5,769.47c68.96,32.65,135.25,21.54,183.3,0"/>
+    <path class="cls-1" d="M885.21,409.78c-55.98,30.23-94.01,89.38-94.01,157.4,0,5.27.23,10.49.68,15.65M1055.33,409.78c55.98,30.23,94.01,89.38,94.01,157.4,0,4.51-.17,8.98-.5,13.41M1057.57,723.35c-25.83,14.43-55.6,22.65-87.3,22.65s-61.47-8.23-87.3-22.65"/>
+    <ellipse class="cls-1" cx="809.11" cy="670.01" rx="89.53" ry="89.41"/>
+    <ellipse class="cls-1" cx="1131.43" cy="670.01" rx="89.53" ry="89.41"/>
+    <ellipse class="cls-1" cx="970.27" cy="379.41" rx="89.53" ry="89.41"/>
+  </g>
+</svg>

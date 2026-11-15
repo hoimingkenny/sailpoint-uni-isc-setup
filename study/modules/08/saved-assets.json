@@ -1,0 +1,452 @@
+[
+  {
+    "number": 1,
+    "lesson": "8.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/1R1Cdd/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "8.2",
+    "caption": "Four provisioning stages",
+    "file": "diagrams/02.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/ProvisioningProcess_NOPROC.png",
+    "bytes": 1535372,
+    "sha256": "bd69aa5c85042162bfdbefbbf592e5771da20206ec4b527803ad04c5f103234f"
+  },
+  {
+    "number": 3,
+    "lesson": "8.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/03.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/TransitionImage-Narrator-K.svg",
+    "bytes": 23823,
+    "sha256": "9db2693e8a6006928b228ef3bad15c91639840aa43a668c778d4da1a4a990071"
+  },
+  {
+    "number": 4,
+    "lesson": "8.2",
+    "caption": "Section divider",
+    "file": "diagrams/04.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/p8PuMs/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 5,
+    "lesson": "8.2",
+    "caption": "Provisioning plan fields",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/PackagePlan_NOPROCESS_.png",
+    "bytes": 1205480,
+    "sha256": "33d5dc3c636024dc39e83a77386520c7f5d7d49fddc745e9c59ea1a33ddd3fc7"
+  },
+  {
+    "number": 6,
+    "lesson": "8.2",
+    "caption": "Verifying the change",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/slide23mod7_NOPROCESS_.png",
+    "bytes": 170971,
+    "sha256": "37378fc24b79735ab6058078c000c170d2c21852f49ea210a3bfc3d53038878e"
+  },
+  {
+    "number": 7,
+    "lesson": "8.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/07.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/KPuFcP/TransitionImage-Narrator-K.svg",
+    "bytes": 23823,
+    "sha256": "9db2693e8a6006928b228ef3bad15c91639840aa43a668c778d4da1a4a990071"
+  },
+  {
+    "number": 8,
+    "lesson": "8.2",
+    "caption": "Account modification process",
+    "file": "diagrams/08.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/_N4cTA/IconBanner-Process-750_NOP.svg",
+    "bytes": 1642,
+    "sha256": "21263dc4cb5dc061c79b6c4bfd918d0563f33e04cb78b584ab041793722af5e9"
+  },
+  {
+    "number": 9,
+    "lesson": "8.2",
+    "caption": "Trigger provisioning",
+    "file": "diagrams/09.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/1_NOPROCESS_.png",
+    "bytes": 49337,
+    "sha256": "efc9d75dba5d07219ece3b02d8431092baf701032639276328c7c91921444647"
+  },
+  {
+    "number": 10,
+    "lesson": "8.2",
+    "caption": "Package the plan",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/02_NOPROCESS_.png",
+    "bytes": 70737,
+    "sha256": "26e66247ab1709f017aabbfffebcf18b6df58c1ce9ebc69815cae634da55d3f1"
+  },
+  {
+    "number": 11,
+    "lesson": "8.2",
+    "caption": "Manage fulfillment",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/03_NOPROCESS_.png",
+    "bytes": 115662,
+    "sha256": "be263928e1c7b9adaa2df6bd17c9d6b201aed103e58e5b522b8bcb8f6a15955f"
+  },
+  {
+    "number": 12,
+    "lesson": "8.2",
+    "caption": "Verify the change",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/04_NOPROCESS_.png",
+    "bytes": 120524,
+    "sha256": "76868afc016da5d3d818a3633b048d42ec042963c001ea2b1ee78ba061e8a298"
+  },
+  {
+    "number": 13,
+    "lesson": "8.2",
+    "caption": "Section divider",
+    "file": "diagrams/13.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/TmfakJ/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 14,
+    "lesson": "8.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/14.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/Mn2JV7/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 15,
+    "lesson": "8.3",
+    "caption": "Create Account configuration",
+    "file": "diagrams/15.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/Active%20Directory_NOPROCE.png",
+    "bytes": 258466,
+    "sha256": "ed80faaecd46dab2586768485a9eacfc98718a72ebd61b140dce55eb85ea5e22"
+  },
+  {
+    "number": 16,
+    "lesson": "8.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/16.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/5W6phz/TransitionImage-Narrator-K.svg",
+    "bytes": 23823,
+    "sha256": "9db2693e8a6006928b228ef3bad15c91639840aa43a668c778d4da1a4a990071"
+  },
+  {
+    "number": 17,
+    "lesson": "8.4",
+    "caption": "Active state",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/activej-1_NOPROCESS__.png",
+    "bytes": 100856,
+    "sha256": "8f21a0d1da922c937a2b5d2221d121813f231d9aaafac32d1b3c57d61c4d701b"
+  },
+  {
+    "number": 18,
+    "lesson": "8.4",
+    "caption": "Leave of absence",
+    "file": "diagrams/18.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LOA-2_NOPROCESS__.png",
+    "bytes": 112069,
+    "sha256": "8edb43c57eafe7d322adca706235e9e0306b36e5bcab5363cbf0761b25d7dff4"
+  },
+  {
+    "number": 19,
+    "lesson": "8.4",
+    "caption": "Contracted state",
+    "file": "diagrams/19.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/contracted-3_NOPROCESS__.png",
+    "bytes": 105244,
+    "sha256": "90308d1e5455610ccb2eb0e1f05d38022e14d8a3ca93267055dd481242087ba8"
+  },
+  {
+    "number": 20,
+    "lesson": "8.4",
+    "caption": "Retired state",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/retired-4_NOPROCESS__.png",
+    "bytes": 100495,
+    "sha256": "2dbd5c26f72d162cad3ed1099d77ccb802b95030edeb6dd934f4195f27249c12"
+  },
+  {
+    "number": 21,
+    "lesson": "8.4",
+    "caption": "Lifecycle state reminder",
+    "file": "diagrams/21.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/StatementBanner-Narrator-K.svg",
+    "bytes": 34703,
+    "sha256": "a939aa6a5f82d6b717781c5812f459c27f4b973ba60d1581da705d1f74481223"
+  },
+  {
+    "number": 22,
+    "lesson": "8.4",
+    "caption": "Lifecycle configuration",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/Slide43_NOPROCESS_.png",
+    "bytes": 830709,
+    "sha256": "741b904b9582cfb1c57f0a7553dd47d32c8e51360c51fa9c3bd86c4f9d4f6237"
+  },
+  {
+    "number": 23,
+    "lesson": "8.4",
+    "caption": "Narrator transition",
+    "file": "diagrams/23.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/FKjGV_/TransitionImage-Narrator-K.svg",
+    "bytes": 23823,
+    "sha256": "9db2693e8a6006928b228ef3bad15c91639840aa43a668c778d4da1a4a990071"
+  },
+  {
+    "number": 24,
+    "lesson": "8.4",
+    "caption": "Section divider",
+    "file": "diagrams/24.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/oVHNzg/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 25,
+    "lesson": "8.4",
+    "caption": "Lifecycle actions",
+    "file": "diagrams/25.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/Createlifecycle_NOPROCESS_.svg",
+    "bytes": 168656,
+    "sha256": "bbd826bb1d8f407031ef45b618a6f7f16142a8be104b1b4656dd1a107838a54d"
+  },
+  {
+    "number": 26,
+    "lesson": "8.4",
+    "caption": "Contractor state configuration",
+    "file": "diagrams/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/cPWBxGYp7yF30HdT-contract1.png",
+    "bytes": 35988,
+    "sha256": "4ad71a7571e543c833ae083b8c5f5de3e83ed294adbf9b5bcae58b7930563a16"
+  },
+  {
+    "number": 27,
+    "lesson": "8.4",
+    "caption": "Amy in Contracted state",
+    "file": "diagrams/27.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/contract2_NOPROCESS_.svg",
+    "bytes": 3390,
+    "sha256": "9fea1d67b11071c29d81f82a67927c4bbda36d82942c03a3e26e241a99195538"
+  },
+  {
+    "number": 28,
+    "lesson": "8.4",
+    "caption": "Amy in Not Contracted state",
+    "file": "diagrams/28.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/contract3_NOPROCESS_.svg",
+    "bytes": 4143,
+    "sha256": "c0bce4f0fa15ec8d3bc080c9bfaf50b19fbcb98c92b8728e4c814dba8371c71a"
+  },
+  {
+    "number": 29,
+    "lesson": "8.4",
+    "caption": "Employee state configuration",
+    "file": "diagrams/29.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/4crz5n_UHaIquogJ-LS2-10_NO.svg",
+    "bytes": 77627,
+    "sha256": "707c0f3f463704185ba26447ea426244556991f8e8e4db205baa17345dd831e0"
+  },
+  {
+    "number": 30,
+    "lesson": "8.4",
+    "caption": "Blanca in Pre-hire",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/lifecycle-states-01_NOPROC.png",
+    "bytes": 38015,
+    "sha256": "c8c75f63506d0ac81ea1af78e1623c89271e4d00115dcde07ab7159f29dd66d5"
+  },
+  {
+    "number": 31,
+    "lesson": "8.4",
+    "caption": "Blanca becomes Active",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/lifecycle-states-01-02_NOP.png",
+    "bytes": 55790,
+    "sha256": "f2eb767f2f7ba7f2af4f15d37c7fdbfa9870ee93edb9129043d993e83cb79857"
+  },
+  {
+    "number": 32,
+    "lesson": "8.4",
+    "caption": "Blanca on leave",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/lifecycle-states-02_NOPROC.png",
+    "bytes": 61246,
+    "sha256": "efdcd9eef9975bb642b23c5ac8848c6f3f3a9cddf0c3a359d41c842e15e0947e"
+  },
+  {
+    "number": 33,
+    "lesson": "8.4",
+    "caption": "Blanca returns Active",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/lifecycle-states-03_NOPROC.png",
+    "bytes": 58662,
+    "sha256": "b85d649b96af9ab03e23fcd688b35b0b25f294406e58e739ca1173df7effa77a"
+  },
+  {
+    "number": 34,
+    "lesson": "8.4",
+    "caption": "Blanca retires",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/lifecycle-states-04_NOPROC.png",
+    "bytes": 61036,
+    "sha256": "0ba56f745df973a7dbbab63e89c411489a83c9bc714a443bffff2585448ef226"
+  },
+  {
+    "number": 35,
+    "lesson": "8.5",
+    "caption": "Role automation",
+    "file": "diagrams/35.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/Graphic-Automation.svg",
+    "bytes": 6938,
+    "sha256": "d9ba23bd74f32ed8a3b3cc529addbb77540094f12e15aeb4730482b657ffb923"
+  },
+  {
+    "number": 36,
+    "lesson": "8.5",
+    "caption": "Role R1 and access profile AP1",
+    "file": "diagrams/36.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS3-16_NOPROCESS_.svg",
+    "bytes": 43191,
+    "sha256": "c10245f5baab36ac33af070ebe6e52bb7c2bf950545fcd3be16287dac8c60b6e"
+  },
+  {
+    "number": 37,
+    "lesson": "8.5",
+    "caption": "Existing entitlement E1",
+    "file": "diagrams/37.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS3-17_NOPROCESS_.svg",
+    "bytes": 25532,
+    "sha256": "3988fa77d14abdb88f8d57b4ae69576a57fe1673618fd584bb4931c625edbd65"
+  },
+  {
+    "number": 38,
+    "lesson": "8.5",
+    "caption": "Provisioning E2 and E3",
+    "file": "diagrams/38.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS3-18_NOPROCESS_.svg",
+    "bytes": 88488,
+    "sha256": "ad2a344b879062629fb46bee37b91907ddd6e4af1372b42f0caf97fc5cf01b24"
+  },
+  {
+    "number": 39,
+    "lesson": "8.5",
+    "caption": "Role change R1 to R2",
+    "file": "diagrams/39.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS4-19_NOPROCESS_.svg",
+    "bytes": 136930,
+    "sha256": "45e734fb2b1ecc9a2d48f09d5bc8adae045d775ef09db01c5bae33301c891f4d"
+  },
+  {
+    "number": 40,
+    "lesson": "8.5",
+    "caption": "Retaining overlapping entitlement E3",
+    "file": "diagrams/40.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS4-20_NOPROCESS_.svg",
+    "bytes": 136518,
+    "sha256": "478986b5bbf79a0e66237a5f99100d6fe41186d12c53cdce58c933982415acc5"
+  },
+  {
+    "number": 41,
+    "lesson": "8.5",
+    "caption": "Roles",
+    "file": "diagrams/41.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS5-17_NOPROCESS_.svg",
+    "bytes": 2324,
+    "sha256": "2f8485dca1071bc6398fef9a2471fde93bd1c8a5707e75027c49a954e2830dbf"
+  },
+  {
+    "number": 42,
+    "lesson": "8.5",
+    "caption": "Lifecycle states",
+    "file": "diagrams/42.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS5-16_NOPROCESS_.svg",
+    "bytes": 1240,
+    "sha256": "c53ad30c6855574289425f72260f19ae1ddf2ed507f4af580a7dad2e469c2d4e"
+  },
+  {
+    "number": 43,
+    "lesson": "8.6",
+    "caption": "Source attribute update",
+    "file": "diagrams/43.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/AttributeSync1_NOPROCESS_.png",
+    "bytes": 220923,
+    "sha256": "58c5f21249a6973e58003f01eff3f447220f4a7a42987411b242ee232cf926a0"
+  },
+  {
+    "number": 44,
+    "lesson": "8.6",
+    "caption": "Identity attribute aggregation",
+    "file": "diagrams/44.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/AttributeSync2_NOPROCESS_.png",
+    "bytes": 307757,
+    "sha256": "45fa0c5c081788ee73b19c6ddc43b70689c74e1bcbba12595c414955f18a5b71"
+  },
+  {
+    "number": 45,
+    "lesson": "8.6",
+    "caption": "Sync to target systems",
+    "file": "diagrams/45.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/AttributeSync3_NOPROCESS_.png",
+    "bytes": 520574,
+    "sha256": "9af8dbb2b14bfd3238efff015059e274905df9de7578b6e1545b43b9e8159e8d"
+  },
+  {
+    "number": 46,
+    "lesson": "8.6",
+    "caption": "Attribute Sync configuration",
+    "file": "diagrams/46.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/slide60_NOPROCESS_.png",
+    "bytes": 187554,
+    "sha256": "ab6f22705f89e50417054bf3f08d120399aa35d311d4b3982773af0969b68c13"
+  },
+  {
+    "number": 47,
+    "lesson": "8.7",
+    "caption": "Provisioning dashboard",
+    "file": "diagrams/47.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS8_NOPROCESS_.png",
+    "bytes": 503013,
+    "sha256": "296c03241c06337d333984461477388adee0fc6c669192fac7592d5917dd803a"
+  },
+  {
+    "number": 48,
+    "lesson": "8.7",
+    "caption": "Account Activity",
+    "file": "diagrams/48.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/slide33_NOPROCESS_.png",
+    "bytes": 880433,
+    "sha256": "d2a7058f10696f8dd3f9a1cf5abf6a7a373a28c9c86dd722a035a4779f9da032"
+  },
+  {
+    "number": 49,
+    "lesson": "8.7",
+    "caption": "Identity Events",
+    "file": "diagrams/49.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS10_NOPROCESS_.png",
+    "bytes": 517581,
+    "sha256": "e1c845845954192d2bb446f0d40358299aaee97b89aee7974db7b9e235e0c0d4"
+  },
+  {
+    "number": 50,
+    "lesson": "8.7",
+    "caption": "Provisioning Activity report",
+    "file": "diagrams/50.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/14xns28edun3r/scormcontent/assets/LS11_NOPROCESS_.png",
+    "bytes": 800197,
+    "sha256": "dbbd16782fcb2c4627dc7b956bcb205e52695be7dc47f421d29a8043610f7512"
+  }
+]

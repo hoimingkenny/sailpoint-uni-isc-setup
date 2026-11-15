@@ -1,0 +1,53 @@
+{
+  "module": 2,
+  "date": "2026-11-15",
+  "notes": "All five lessons read; detailed English paraphrase",
+  "saved_unique_inline_image_urls": 44,
+  "known_unsaved_background_images": [
+    {
+      "source_path": "assets/2-Gh5h36bP76602T.jpg",
+      "lessons": [
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5"
+      ],
+      "type": "background photograph"
+    },
+    {
+      "source_path": "assets/IntroductionBanner-Narrato.svg",
+      "lessons": [
+        "2.1"
+      ],
+      "type": "Overview narrator banner"
+    },
+    {
+      "source_path": "assets/11ahs0/IntroductionBanner-Narrato.svg",
+      "lessons": [
+        "2.2",
+        "2.3",
+        "2.4"
+      ],
+      "type": "shared lesson narrator banner"
+    },
+    {
+      "source_path": "assets/RecapBanner-NarratorA_NOPR.svg",
+      "lessons": [
+        "2.5"
+      ],
+      "type": "Recap narrator banner"
+    }
+  ],
+  "audio_video": "No independent audio/video file or transcript included; exhaustive playback inventory not established",
+  "external_resources": "Other courses and the User Level Matrix not captured",
+  "assessment": "No answers submitted",
+  "saved_inline_image_urls": 44,
+  "known_unsaved_background_paths": [
+    "assets/2-Gh5h36bP76602T.jpg",
+    "assets/IntroductionBanner-Narrato.svg",
+    "assets/11ahs0/IntroductionBanner-Narrato.svg",
+    "assets/RecapBanner-NarratorA_NOPR.svg"
+  ],
+  "expanded_interactions": "All continuation sections, feature/governance/process tabs, extensibility/authentication accordions, flashcard explanations and process-panel text read."
+}

@@ -1,0 +1,9 @@
+# Local caches and generated single-file/download packages
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.zip
+ISC-English-Study-Content.html

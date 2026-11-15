@@ -1,0 +1,185 @@
+[
+  {
+    "module": 1,
+    "title": "Overview",
+    "lessons": 1,
+    "words": 445,
+    "saved_image_files": 5,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Alex.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 2,
+    "title": "Identity Security Cloud overview",
+    "lessons": 5,
+    "words": 3582,
+    "saved_image_files": 44,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/IntroductionBanner-Narrato.svg",
+      "assets/11ahs0/IntroductionBanner-Narrato.svg",
+      "assets/RecapBanner-NarratorA_NOPR.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 3,
+    "title": "Tenant configuration",
+    "lessons": 6,
+    "words": 3041,
+    "saved_image_files": 50,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Ian_.svg",
+      "assets/P6FKlm/LessonBanner-Narrator-Ian_.svg",
+      "assets/qMm-Wx/LessonBanner-Narrator-Ian_.svg",
+      "assets/bJDb-p/LessonBanner-Narrator-Ian_.svg",
+      "assets/sxcmWX/LessonBanner-Narrator-Ian_.svg",
+      "assets/RecapBanner-Narrator-Ian_N.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 4,
+    "title": "Connectivity",
+    "lessons": 5,
+    "words": 2214,
+    "saved_image_files": 41,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/aVd9Vg/LessonBanner-Narrator-Mia_.svg",
+      "assets/RecapBanner-Narrator-Mia_N.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 5,
+    "title": "Onboarding identities (authoritative sources)",
+    "lessons": 7,
+    "words": 2087,
+    "saved_image_files": 39,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/TVumZr/LessonBanner-Narrator-Mate.svg",
+      "assets/5ukdh2/LessonBanner-Narrator-Mate.svg",
+      "assets/RecapBanner-Narrator-Mateo.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 6,
+    "title": "Onboarding identities (non-authoritative sources)",
+    "lessons": 5,
+    "words": 1848,
+    "saved_image_files": 49,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Trey.svg",
+      "assets/FI5XYi/LessonBanner-Narrator-Trey.svg",
+      "assets/nN59HN/LessonBanner-Narrator-Trey.svg",
+      "assets/80TX6X/LessonBanner-Narrator-Trey.svg",
+      "assets/RecapBanner-Narrator-Trey_.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 7,
+    "title": "Define and maintain an access model",
+    "lessons": 5,
+    "words": 2776,
+    "saved_image_files": 26,
+    "known_unsaved_background_paths": [],
+    "inventory_complete": false
+  },
+  {
+    "module": 8,
+    "title": "Provisioning overview and monitoring",
+    "lessons": 8,
+    "words": 2224,
+    "saved_image_files": 50,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Kati.svg",
+      "assets/vveZ4t/LessonBanner-Narrator-Kati.svg",
+      "assets/0Grnw7/LessonBanner-Narrator-Kati.svg",
+      "assets/RecapBanner-Narrator-Katie.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 9,
+    "title": "Access Requests",
+    "lessons": 5,
+    "words": 1451,
+    "saved_image_files": 45,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Alex.svg",
+      "assets/SINagA/LessonBanner-Narrator-Alex.svg",
+      "assets/-crgYO/LessonBanner-Narrator-Alex.svg",
+      "assets/rwZyUh/LessonBanner-Narrator-Alex.svg",
+      "assets/RecapBanner-Narrator-Alex_.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 10,
+    "title": "Search and reporting",
+    "lessons": 5,
+    "words": 1483,
+    "saved_image_files": 24,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Mia_.svg",
+      "assets/icfn94/LessonBanner-Narrator-Mia_.svg",
+      "assets/RecapBanner-Narrator-Mia_N.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 11,
+    "title": "AI-Driven identity security",
+    "lessons": 7,
+    "words": 1994,
+    "saved_image_files": 61,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Alex.svg",
+      "assets/dOGZrS/LessonBanner-Narrator-Alex.svg",
+      "assets/RecapBanner-Narrator-Alex_.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 12,
+    "title": "Governance",
+    "lessons": 6,
+    "words": 1647,
+    "saved_image_files": 40,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/LessonBanner-Narrator-Lina.svg",
+      "assets/tAQ6wj/LessonBanner-Narrator-Lina.svg",
+      "assets/Vw21di/LessonBanner-Narrator-Lina.svg",
+      "assets/-zoXJy/LessonBanner-Narrator-Lina.svg",
+      "assets/KU0h4H/LessonBanner-Narrator-Lina.svg",
+      "assets/RecapBanner-Narrator-Lina_.svg"
+    ],
+    "inventory_complete": false
+  },
+  {
+    "module": 13,
+    "title": "Workflows",
+    "lessons": 5,
+    "words": 1445,
+    "saved_image_files": 27,
+    "known_unsaved_background_paths": [
+      "assets/2-Gh5h36bP76602T.jpg",
+      "assets/gZEjJw/LessonBanner-Narrator-Trey.svg"
+    ],
+    "inventory_complete": false
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "number": 1,
+    "lesson": "12.1",
+    "caption": "Overview footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/vsHkOz/SlashFooter-CobaltGradient.gif",
+    "bytes": 1842226,
+    "sha256": "b9fb87d1283d9e0f1db8f887099be0d51dd71ed2888368d4ca70b105f1e92beb"
+  },
+  {
+    "number": 2,
+    "lesson": "12.2",
+    "caption": "Certification",
+    "file": "diagrams/02.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_L1_Certification_NOP.svg",
+    "bytes": 6077,
+    "sha256": "669956d35fc70fcd0307400dfa5088aa9533b3571654b1889bbf5b9dee00863e"
+  },
+  {
+    "number": 3,
+    "lesson": "12.2",
+    "caption": "Campaign",
+    "file": "diagrams/03.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_L1_CAMPAIGN_NOPROCES.svg",
+    "bytes": 6029,
+    "sha256": "6f03d8a06dbb32b32e6c575ca4f5febeffa023ab1269b2cac733b2888cea8624"
+  },
+  {
+    "number": 4,
+    "lesson": "12.2",
+    "caption": "Campaign filter",
+    "file": "diagrams/04.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_L1_CampaignFilter_NO.svg",
+    "bytes": 2229,
+    "sha256": "ffa241990c00cfe54b3cac230f907a5ac9dcd5c9e2e3720119674e71684f1d88"
+  },
+  {
+    "number": 5,
+    "lesson": "12.2",
+    "caption": "Certification visibility",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.4_NOPROCESS_.svg.png",
+    "bytes": 525257,
+    "sha256": "0ec172746d6dd14a99c319962246eb966840dbf684cd035fee5d296e288ce387"
+  },
+  {
+    "number": 6,
+    "lesson": "12.2",
+    "caption": "Governance illustration",
+    "file": "diagrams/06.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.5_NOPROCESS_.svg",
+    "bytes": 569691,
+    "sha256": "f8ad72b4a91ea8efe847d00ad1af93208193939f9fc2f14b3d8a2e6d8a0b34fc"
+  },
+  {
+    "number": 7,
+    "lesson": "12.2",
+    "caption": "Governance illustration",
+    "file": "diagrams/07.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.6_NOPROCESS_.svg",
+    "bytes": 558297,
+    "sha256": "c3333ccef5cda1d99f5cd008742aa32f515a3c413b669a5a115520fe1f4857d7"
+  },
+  {
+    "number": 8,
+    "lesson": "12.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/08.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/ajQLoi/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 9,
+    "lesson": "12.2",
+    "caption": "Lesson footer",
+    "file": "diagrams/09.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/GZ97B6/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 10,
+    "lesson": "12.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/10.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/tm9WbC/TransitionImage-Narrator-L.svg",
+    "bytes": 22421,
+    "sha256": "57fa643d205ab11c7d2093ebf7a8504dc184d905faaad3e738c7d46af001748a"
+  },
+  {
+    "number": 11,
+    "lesson": "12.3",
+    "caption": "Section divider",
+    "file": "diagrams/11.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/vml1mA/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 12,
+    "lesson": "12.3",
+    "caption": "Campaign certification objects",
+    "file": "diagrams/12.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.8_NOPROCESS_.svg",
+    "bytes": 197509,
+    "sha256": "32785ae4fcdbb5621de7acb411b3051c48e3ef856569a1425409c66cea89fdd3"
+  },
+  {
+    "number": 13,
+    "lesson": "12.3",
+    "caption": "Create a search-based campaign",
+    "file": "diagrams/13.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.9_NOPROCESS_.svg",
+    "bytes": 386881,
+    "sha256": "d28ffa756b9c0badcfdf864635a156d6ef6837679b51b38a5e9e3f0643eab17a"
+  },
+  {
+    "number": 14,
+    "lesson": "12.3",
+    "caption": "Section divider",
+    "file": "diagrams/14.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/axhWIr/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 15,
+    "lesson": "12.3",
+    "caption": "Campaign filter",
+    "file": "diagrams/15.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.10_NOPROCESS_.svg",
+    "bytes": 296712,
+    "sha256": "55fc808a73dd17caf599ad5cceb4ea74d83799a22d7d6897eb2d619eee6d17c6"
+  },
+  {
+    "number": 16,
+    "lesson": "12.3",
+    "caption": "Filter criteria",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC%20M11%20L3%20Campaig.png",
+    "bytes": 765717,
+    "sha256": "a8348385647ba34b2c25f616beefdf693b6e80c39cee9b9ccaf9c3fd92463ea0"
+  },
+  {
+    "number": 17,
+    "lesson": "12.3",
+    "caption": "Section divider",
+    "file": "diagrams/17.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/fyAalU/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 18,
+    "lesson": "12.3",
+    "caption": "Certification reassignment",
+    "file": "diagrams/18.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_12b_NOPROCESS_.png",
+    "bytes": 219935,
+    "sha256": "a7563b8651b10e998b9e6cb333119779a507849eba7e5e2a31eebea4823d994d"
+  },
+  {
+    "number": 19,
+    "lesson": "12.3",
+    "caption": "Reassignment constraints",
+    "file": "diagrams/19.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_12c_NOPROCESS_.svg",
+    "bytes": 236904,
+    "sha256": "acad5f9d538a51f4d8cad54f25d1930dc7987fce82a277df5cc018f19e19de65"
+  },
+  {
+    "number": 20,
+    "lesson": "12.3",
+    "caption": "Automated work reassignment",
+    "file": "diagrams/20.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_12d_NOPROCESS_.svg",
+    "bytes": 237872,
+    "sha256": "c33bcd7fbe87b1c6210adf762c3caf05d1d832570ab12b887d43859b529e15cd"
+  },
+  {
+    "number": 21,
+    "lesson": "12.3",
+    "caption": "Work Reassignment",
+    "file": "diagrams/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_L3_WorkReassignment_.png",
+    "bytes": 690663,
+    "sha256": "a131cb39e0875c70e195e852cff64dadc7dec9fc033ee41cea4ed20f0b69b43a"
+  },
+  {
+    "number": 22,
+    "lesson": "12.3",
+    "caption": "Campaign progress",
+    "file": "diagrams/22.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.16_NOPROCESS_.svg",
+    "bytes": 198723,
+    "sha256": "3781c267c2f53aff30501bbd8bd0fbaf6771f2a86ab4a88536ac22f737a4e235"
+  },
+  {
+    "number": 23,
+    "lesson": "12.3",
+    "caption": "Campaign reporting",
+    "file": "diagrams/23.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.17_NOPROCESS_.svg",
+    "bytes": 253141,
+    "sha256": "3267d80129fec74fdaafe569cebc51c5e297c80ebba59e77335823e4d21e6fa4"
+  },
+  {
+    "number": 24,
+    "lesson": "12.3",
+    "caption": "Knowledge check",
+    "file": "diagrams/24.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/vHKntE/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 25,
+    "lesson": "12.4",
+    "caption": "Certifications navigation",
+    "file": "diagrams/25.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.18_NOPROCESS_.svg",
+    "bytes": 220624,
+    "sha256": "30443564890bc42474db790f65f0fc6eecd6a5642bda84554fef1efb0fa4bc47"
+  },
+  {
+    "number": 26,
+    "lesson": "12.4",
+    "caption": "Certification notification",
+    "file": "diagrams/26.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.19_NOPROCESS_.svg",
+    "bytes": 363328,
+    "sha256": "b425d8da8ce0799933d03da8be17bc6bde06efc35fb5edeb1716578b12045a7d"
+  },
+  {
+    "number": 27,
+    "lesson": "12.4",
+    "caption": "Campaign details",
+    "file": "diagrams/27.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.20_NOPROCESS_.svg",
+    "bytes": 356567,
+    "sha256": "d4f092e8e49c27f72538c04ba5af7e10117d468960e271d6e6a36079a0994311"
+  },
+  {
+    "number": 28,
+    "lesson": "12.4",
+    "caption": "Reviewer interface",
+    "file": "diagrams/28.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.21_NOPROCESS_.svg",
+    "bytes": 255384,
+    "sha256": "7f9c8066c05b64ec01cba0d41ca220c57ee91eada0050e57b4113a9786433bcf"
+  },
+  {
+    "number": 29,
+    "lesson": "12.4",
+    "caption": "Certification sign-off",
+    "file": "diagrams/29.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.22_NOPROCESS_.svg",
+    "bytes": 127847,
+    "sha256": "4fac370808060a23534f40c31cfa1aee1a7f0ba3558b63900fa2792637f438f1"
+  },
+  {
+    "number": 30,
+    "lesson": "12.5",
+    "caption": "Policy types",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/PolicyType1_NOPROCESS_.png",
+    "bytes": 112990,
+    "sha256": "0c158030c21bf2cb5b02a46ef84dca69155f595e21df44942194cdf7c35140e4"
+  },
+  {
+    "number": 31,
+    "lesson": "12.5",
+    "caption": "Separation of Duties",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/PolicyType2_NOPROCESS_.png",
+    "bytes": 94888,
+    "sha256": "33b1ea73a1a2d113b5120b62e29098d39484c40aad1b06cc92fea4127ece0a6d"
+  },
+  {
+    "number": 32,
+    "lesson": "12.5",
+    "caption": "Conflicting access example",
+    "file": "diagrams/32.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.25_NOPROCESS_.svg",
+    "bytes": 185591,
+    "sha256": "67fca8b30bdc2d532029b81a86d924728068c8900f5cfb058e7f697e6024d9ae"
+  },
+  {
+    "number": 33,
+    "lesson": "12.5",
+    "caption": "Preventative SoD warning",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.26_NOPROCESS_.svg.png",
+    "bytes": 489349,
+    "sha256": "b6e24a71caa0780682c89e09bb59aae9c9527d19acb0f36d78f161dc7b3d9d32"
+  },
+  {
+    "number": 34,
+    "lesson": "12.5",
+    "caption": "General policy",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.27_NOPROCESS_.png",
+    "bytes": 93296,
+    "sha256": "0ab7fb293ec93a19ab6433d02b8f56ea14e577617e372d162a30e0dddf28246d"
+  },
+  {
+    "number": 35,
+    "lesson": "12.5",
+    "caption": "Create policy step 1",
+    "file": "diagrams/35.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.28_NOPROCESS_.png",
+    "bytes": 71601,
+    "sha256": "2300c0908e875b3b17c6cdb4b3f9c25f440393f0357642be7bc95ad42aeda463"
+  },
+  {
+    "number": 36,
+    "lesson": "12.5",
+    "caption": "Choose policy type",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.29_NOPROCESS_.png",
+    "bytes": 64130,
+    "sha256": "27bcb217032c8fbdd04130478358082e29a819872eb3eb9677994a1d6dea5188"
+  },
+  {
+    "number": 37,
+    "lesson": "12.5",
+    "caption": "Policy violation animation",
+    "file": "diagrams/37.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.30_GIF_NOPROCESS_.gif",
+    "bytes": 307875,
+    "sha256": "14741d2528669e6cbc64f347ce788829c619750b1435a4f445395d0be6fe695a"
+  },
+  {
+    "number": 38,
+    "lesson": "12.5",
+    "caption": "Policy violations",
+    "file": "diagrams/38.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.31_NOPROCESS_.svg",
+    "bytes": 414097,
+    "sha256": "60945b10dc8a5d81d75978a48ac018cec2fdb401eeb4996168fa3754f1fb506a"
+  },
+  {
+    "number": 39,
+    "lesson": "12.5",
+    "caption": "Policy subscriptions",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/SAISC_11.33_NOPROCESS_.svg.png",
+    "bytes": 1065212,
+    "sha256": "d8f8c660bb8e6b7cc20b47a289e2b4c8c395e7727d4b57d01d2cca0ef954828a"
+  },
+  {
+    "number": 40,
+    "lesson": "12.5",
+    "caption": "Knowledge check",
+    "file": "diagrams/40.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/hrqx9ruqv5g/scormcontent/assets/c5DXC5/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  }
+]

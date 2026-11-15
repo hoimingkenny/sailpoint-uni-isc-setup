@@ -1,0 +1,452 @@
+[
+  {
+    "number": 1,
+    "lesson": "3.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/wOJeTF/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "3.2",
+    "caption": "The multi-tenant model",
+    "file": "diagrams/02.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/1_NOPROCESS_.png",
+    "bytes": 32334,
+    "sha256": "15c1849e8655f3ff978ca76b86513611234d0224a101a9d26125ffc180203b74"
+  },
+  {
+    "number": 3,
+    "lesson": "3.2",
+    "caption": "Shared infrastructure",
+    "file": "diagrams/03.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/2_NOPROCESS_.png",
+    "bytes": 36992,
+    "sha256": "711336c58311fa5ff616c6ce355abc11a7c7f5d147d3777d3257b0316d9fa93c"
+  },
+  {
+    "number": 4,
+    "lesson": "3.2",
+    "caption": "Custom extras",
+    "file": "diagrams/04.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/4_NOPROCESS_-.png",
+    "bytes": 102526,
+    "sha256": "14dbb729859af1ef3690d1aa855d4c1a1ff6c35f30b4922cb3d9f345ca6c2a6a"
+  },
+  {
+    "number": 5,
+    "lesson": "3.2",
+    "caption": "Virtual appliance bridge",
+    "file": "diagrams/05.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 6,
+    "lesson": "3.2",
+    "caption": "Section divider",
+    "file": "diagrams/06.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/TLV8YH/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 7,
+    "lesson": "3.2",
+    "caption": "Shared services: organization",
+    "file": "diagrams/07.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/wN_v91/4_NOPROCESS_-.png",
+    "bytes": 102526,
+    "sha256": "14dbb729859af1ef3690d1aa855d4c1a1ff6c35f30b4922cb3d9f345ca6c2a6a"
+  },
+  {
+    "number": 8,
+    "lesson": "3.2",
+    "caption": "Shared services: scale",
+    "file": "diagrams/08.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/5_NOPROCESS_.png",
+    "bytes": 103348,
+    "sha256": "90f7ecfcb01710844b989b25575f16aad55b8521273db4ea1c473d04c766d129"
+  },
+  {
+    "number": 9,
+    "lesson": "3.2",
+    "caption": "Additional benefits",
+    "file": "diagrams/09.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/BqaYoY/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 10,
+    "lesson": "3.2",
+    "caption": "Section divider",
+    "file": "diagrams/10.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/fJXfk1/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 11,
+    "lesson": "3.2",
+    "caption": "SailPoint SaaS regions",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/SaaSRegions2025_NOPROCESS_.png",
+    "bytes": 461830,
+    "sha256": "36075ee79b06cca1f12dd27016efd592d67a602c701e5cf87e0c582fe4db45a2"
+  },
+  {
+    "number": 12,
+    "lesson": "3.2",
+    "caption": "Knowledge check banner",
+    "file": "diagrams/12.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/T-xoJ3/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 13,
+    "lesson": "3.3",
+    "caption": "Session settings",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/access_NOPROCESS_.png",
+    "bytes": 2663,
+    "sha256": "ffef50b5fea1aed296fa62a464e9dc86f06453019faa68aa833d328b2fc4c783"
+  },
+  {
+    "number": 14,
+    "lesson": "3.3",
+    "caption": "Login settings",
+    "file": "diagrams/14.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/login_NOPROCESS_.png",
+    "bytes": 2065,
+    "sha256": "53baeadbaa37270fd720a35491b4de47883a725565be129ad628efc3ad26ca84"
+  },
+  {
+    "number": 15,
+    "lesson": "3.3",
+    "caption": "Global configuration narrator",
+    "file": "diagrams/15.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/oqlUb1/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 16,
+    "lesson": "3.3",
+    "caption": "Email notifications",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/email.png",
+    "bytes": 526,
+    "sha256": "ca3bb3c901072dd498361ebb8264939d5384ecf6b5131711df7b6829caab0119"
+  },
+  {
+    "number": 17,
+    "lesson": "3.3",
+    "caption": "Email template configuration",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/email1_NOPROCESS_.png",
+    "bytes": 101661,
+    "sha256": "30c554932cdc0b87ebff05fcb2d417838941719200bce71ae1dcaec09994e1be"
+  },
+  {
+    "number": 18,
+    "lesson": "3.3",
+    "caption": "Email template editing",
+    "file": "diagrams/18.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/email2_NOPROCESS_.png",
+    "bytes": 79116,
+    "sha256": "0dc8e83abbaeacd06e3851dbb5f47276e01135faef448d0ee29fee8297f3ff73"
+  },
+  {
+    "number": 19,
+    "lesson": "3.3",
+    "caption": "Email icon",
+    "file": "diagrams/19.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/emailicon_NOPROCESS_.png",
+    "bytes": 15814,
+    "sha256": "2efadeaee88f25895a1805480fc24c25482e7e3ff516c021d23d0ccdcdb9bf61"
+  },
+  {
+    "number": 20,
+    "lesson": "3.3",
+    "caption": "Testing email",
+    "file": "diagrams/20.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/KVJdbv/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 21,
+    "lesson": "3.3",
+    "caption": "Email test: start",
+    "file": "diagrams/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/VMf7vP/slide1_NOPROCESS_.png",
+    "bytes": 48703,
+    "sha256": "025aff9b0aba69d81b76da86fe512f28eea47840585353e73563fd47dd45aac2"
+  },
+  {
+    "number": 22,
+    "lesson": "3.3",
+    "caption": "Email test: redirect",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/slide2_NOPROCESS_.png",
+    "bytes": 56025,
+    "sha256": "d45450426eca5d1fde6e063d2ef5923be9e1154bda35b1c5b865024494c69460"
+  },
+  {
+    "number": 23,
+    "lesson": "3.3",
+    "caption": "Email test: ten messages",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/slide3_NOPROCESS_.png",
+    "bytes": 22327,
+    "sha256": "2d18e92dc081c49e74b7242b4941eb4fbc225bf42d7d601179e19a22af28ff8b"
+  },
+  {
+    "number": 24,
+    "lesson": "3.3",
+    "caption": "Email test: inspect layout",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/slide4-1_NOPROCESS_.png",
+    "bytes": 21831,
+    "sha256": "5423197f4c8907c697b89efadb1875bed65a2207d95e2f34a6b2a1cb3aff8074"
+  },
+  {
+    "number": 25,
+    "lesson": "3.3",
+    "caption": "Email test: actual recipients",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/slide5-1_NOPROCESS_.png",
+    "bytes": 46602,
+    "sha256": "1b57cb3a6f2a6427a0d902ab054aa242d065d567443116cb4d407b04bb530508"
+  },
+  {
+    "number": 26,
+    "lesson": "3.4",
+    "caption": "Implementation phase one",
+    "file": "diagrams/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/phase1_NOPROCESS_.png",
+    "bytes": 32331,
+    "sha256": "489f50871e8f613284a4d647ed18fbc39415c96e6a8966c793bfdb9795c93d12"
+  },
+  {
+    "number": 27,
+    "lesson": "3.4",
+    "caption": "Implementation phase two",
+    "file": "diagrams/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/phase2_NOPROCESS_.png",
+    "bytes": 61525,
+    "sha256": "442c6b7120c7f08169be963c76030ed78fa4a681c6ad1e2997a3f877f914de0d"
+  },
+  {
+    "number": 28,
+    "lesson": "3.5",
+    "caption": "The condo building",
+    "file": "diagrams/28.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-01_NORPOCESS_.png",
+    "bytes": 39109,
+    "sha256": "69bb9a046afbe69174cc794ca4924523eeb8f327f48b0a93735b43673ed98aad"
+  },
+  {
+    "number": 29,
+    "lesson": "3.5",
+    "caption": "The digital security guard",
+    "file": "diagrams/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-02_NORPOCESS_.png",
+    "bytes": 61878,
+    "sha256": "976b7abe9576a7c446a1cf8df966cc448cae2de1c22143ec0e08d3fd2d447a51"
+  },
+  {
+    "number": 30,
+    "lesson": "3.5",
+    "caption": "Checking credentials",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-03_NORPOCESS_.png",
+    "bytes": 130951,
+    "sha256": "546a5860b5f8a24eacbd5e21665a5cb02599fe79bd83d5cc7f1d6dad4b046d0e"
+  },
+  {
+    "number": 31,
+    "lesson": "3.5",
+    "caption": "Using advanced security tools",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-06_2_NORPOCESS_-05.png",
+    "bytes": 93076,
+    "sha256": "add7bc3d089a4891cee87a9c41a22ee145e926dac8dc6f7b0bc1f3d7f771cd9e"
+  },
+  {
+    "number": 32,
+    "lesson": "3.5",
+    "caption": "Streamlining secure access",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-06_2_NORPOCESS_-06.png",
+    "bytes": 82096,
+    "sha256": "30faa5d54523f6a97f1ab59bb8be72729431ae1d13a491a89c425e073909051d"
+  },
+  {
+    "number": 33,
+    "lesson": "3.5",
+    "caption": "Keeping identity security in check",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/sb2-04_NORPOCESS_.png",
+    "bytes": 106517,
+    "sha256": "24b72a7ad72e1531153e65e7863877e67ed20786c74071952ab69a6a829641a4"
+  },
+  {
+    "number": 34,
+    "lesson": "3.5",
+    "caption": "VA responsibilities and control",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/slide%2025_NOPROCESS_.png",
+    "bytes": 104578,
+    "sha256": "62eaef4f5210006af0b3c4500950a24afc408eab870b0c627571d401dd9980d1"
+  },
+  {
+    "number": 35,
+    "lesson": "3.5",
+    "caption": "VA administration narrator",
+    "file": "diagrams/35.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/wS9Y0U/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 36,
+    "lesson": "3.5",
+    "caption": "VA cluster",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/VA%20cluster_NOPROCESS_.png",
+    "bytes": 199128,
+    "sha256": "a8d12004d086c3f3a0ceba7e3c5a5592ae09fefdde55fa2455c186171f34ccc2"
+  },
+  {
+    "number": 37,
+    "lesson": "3.5",
+    "caption": "Cluster queue",
+    "file": "diagrams/37.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/clusterq_NOPROCESS_.png",
+    "bytes": 203144,
+    "sha256": "04d88d86fc1c42d66670254178229d6607a6a44bc129665f5c9f5d8c2a8e4177"
+  },
+  {
+    "number": 38,
+    "lesson": "3.5",
+    "caption": "Cluster queue messages",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/clusterqmessages_NOPROCESS.png",
+    "bytes": 205033,
+    "sha256": "52331af8d8b53de741a78c92b0b5254d53d2b8deddb288ab3da822f7dfcfc245"
+  },
+  {
+    "number": 39,
+    "lesson": "3.5",
+    "caption": "Message decrypt",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/messgdecrypt_NOPROCESS_.png",
+    "bytes": 202011,
+    "sha256": "ed9cde3f274ddb7ccf55354dba5356e15f565450aa6b440b254e56d35b53cf8a"
+  },
+  {
+    "number": 40,
+    "lesson": "3.5",
+    "caption": "Internal communication",
+    "file": "diagrams/40.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/internalcomms_NOPROCESS_.png",
+    "bytes": 226029,
+    "sha256": "d381f1eac6447aa119ec1d663ac7ea9feae1ddd08809adabace9b30b5d665232"
+  },
+  {
+    "number": 41,
+    "lesson": "3.5",
+    "caption": "VA communication narrator",
+    "file": "diagrams/41.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/Or_sQp/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 42,
+    "lesson": "3.5",
+    "caption": "Create a VA cluster",
+    "file": "diagrams/42.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/SAISC%20M2%20L5%20deployme.png",
+    "bytes": 45911,
+    "sha256": "aecd503e8e5729058d9c34f3b258027b3d5ad6ead4856b39b6daf6cabc7863d5"
+  },
+  {
+    "number": 43,
+    "lesson": "3.5",
+    "caption": "Configure and pair a VA",
+    "file": "diagrams/43.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/SAISC%20M2%20Virtual%20App.png",
+    "bytes": 280141,
+    "sha256": "75c89984ce7e25a6c6611e56e792fc24dd7573b2c2de9edb78a9bdd4fee658d7"
+  },
+  {
+    "number": 44,
+    "lesson": "3.5",
+    "caption": "VA best practices narrator",
+    "file": "diagrams/44.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/rwpiko/TransitionImage-Narrator-I.svg",
+    "bytes": 16700,
+    "sha256": "aa6d554e010683484a4fff8608a61483ec9729bdeef450568eea8cffa40b6057"
+  },
+  {
+    "number": 45,
+    "lesson": "3.5",
+    "caption": "Section divider",
+    "file": "diagrams/45.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/6u2c89/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 46,
+    "lesson": "3.5",
+    "caption": "Cluster monitoring",
+    "file": "diagrams/46.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/cluster1_NOPROCESS_.png",
+    "bytes": 15522,
+    "sha256": "1afe2ca6c1664aa5119369dd18f74eeee9342b67f4f4b4f8245ef1b79273b363"
+  },
+  {
+    "number": 47,
+    "lesson": "3.5",
+    "caption": "VA cluster status examples",
+    "file": "diagrams/47.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/SAISC%20M2%20L5%20VA%20clu.png",
+    "bytes": 24405,
+    "sha256": "5256c94bedf017b7477188704ceb8102a1fe9abc295f6fcda3caeedbbbc1476f"
+  },
+  {
+    "number": 48,
+    "lesson": "3.5",
+    "caption": "System notification settings",
+    "file": "diagrams/48.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/emailnotif_NOPROCESS.png",
+    "bytes": 49481,
+    "sha256": "9034f6179638684a897cd7caf3930cc95d4748486f45ab8834cef0fd0fb006a6"
+  },
+  {
+    "number": 49,
+    "lesson": "3.5",
+    "caption": "Enable debugging",
+    "file": "diagrams/49.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/SAISC%20M2%20L5%20enable.png",
+    "bytes": 133686,
+    "sha256": "3429a1a01a49939a1f3450e27da21d320c9553f97b429082aafd7f6001e2d79e"
+  },
+  {
+    "number": 50,
+    "lesson": "3.5",
+    "caption": "Troubleshooting narrator",
+    "file": "diagrams/50.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/3pjiz1cfcynnt/scormcontent/assets/StatementBanner-Narrator-I.svg",
+    "bytes": 26116,
+    "sha256": "52b12909c3f64693118826c85d3fa26249c64f270ee42e4d3c40e555f4c8cf84"
+  }
+]

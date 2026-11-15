@@ -1,0 +1,21 @@
+{
+  "module": 13,
+  "lessons_read": [
+    "Overview",
+    "Workflows overview",
+    "Building a workflow",
+    "Managing workflows",
+    "Recap"
+  ],
+  "saved_inline_image_urls": 27,
+  "known_unsaved_background_paths": [
+    "assets/2-Gh5h36bP76602T.jpg",
+    "assets/gZEjJw/LessonBanner-Narrator-Trey.svg"
+  ],
+  "original_asset_inventory_complete": false,
+  "expanded_interactions": "Five lessons summarized; component tabs, four use-case accordions, Joiner/Mover/Leaver examples, ten leaver markers, management and troubleshooting panels expanded.",
+  "limitations": [
+    "Overview/Recap artwork and complete media inventory not verified",
+    "No comprehensive audiovisual inventory or transcript export"
+  ]
+}

@@ -1,0 +1,551 @@
+[
+  {
+    "number": 1,
+    "lesson": "11.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Fy1U_x/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "11.2",
+    "caption": "Access Insights",
+    "file": "diagrams/02.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Banner-Insights_NOPROCESS_.svg",
+    "bytes": 220113,
+    "sha256": "2232e7d926c4fbc32ca176b6e8df2b65e2eb4b986d02d2156d79373ec2e19133"
+  },
+  {
+    "number": 3,
+    "lesson": "11.2",
+    "caption": "Access Modeling",
+    "file": "diagrams/03.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Banner-Modeling_NOPROCESS_.svg",
+    "bytes": 5434,
+    "sha256": "c50274aebb955f69f143855b4d057c3241a1c5cf26278fa2037057368e267a26"
+  },
+  {
+    "number": 4,
+    "lesson": "11.2",
+    "caption": "Recommendations",
+    "file": "diagrams/04.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Banner-Recs_NOPROCESS_.svg",
+    "bytes": 4727,
+    "sha256": "8e3bcb7d170ed57e879f6639b17362bc71ea3588d4717dd750bb744a7dc05bb1"
+  },
+  {
+    "number": 5,
+    "lesson": "11.2",
+    "caption": "Other ISC data tools",
+    "file": "diagrams/05.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-OtherISC_NOPROCESS.svg",
+    "bytes": 3131,
+    "sha256": "5b0e078415b5ae2e5cbf1f5d252876e29827326ab41bc92c6361dfd10b5c7bd0"
+  },
+  {
+    "number": 6,
+    "lesson": "11.2",
+    "caption": "Peer group analysis",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/PeerGroupAnalysis_NOPROCES.png",
+    "bytes": 357594,
+    "sha256": "c6318528f60e281bacdf4cd06ad7eba0d5dbb4dd7a962f4a0c12d716c12016dc"
+  },
+  {
+    "number": 7,
+    "lesson": "11.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/07.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/MioAiV/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 8,
+    "lesson": "11.3",
+    "caption": "Access Insights components",
+    "file": "diagrams/08.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-AccessInsights_NOP.svg",
+    "bytes": 220126,
+    "sha256": "492c382082a9f76826ff262bbba16236ba7a97b35a86bb8b12c318d0f91e36e7"
+  },
+  {
+    "number": 9,
+    "lesson": "11.3",
+    "caption": "Identity Outliers dashboard",
+    "file": "diagrams/09.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/IdOutliers_NOPROCESS_.png",
+    "bytes": 173905,
+    "sha256": "8f5353f105cf9ba1e6fe411345f57ab652fca270875b76ffd4cc9af82bc88403"
+  },
+  {
+    "number": 10,
+    "lesson": "11.3",
+    "caption": "Identity Outliers list",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore1_NOPROCESS_.png",
+    "bytes": 207918,
+    "sha256": "b8a972cef466949b2731338310b380c852f5ad189055dbc243e42f80be7a211b"
+  },
+  {
+    "number": 11,
+    "lesson": "11.3",
+    "caption": "Outlier score factors",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore2_NOPROCESS_.png",
+    "bytes": 293258,
+    "sha256": "a42eac073c1d8c87c5aa645acd9f81b4a3d12fc368dfcde607d934b0f8e9bd65"
+  },
+  {
+    "number": 12,
+    "lesson": "11.3",
+    "caption": "Rare access",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore3_NOPROCESS_.png",
+    "bytes": 173107,
+    "sha256": "37b08fb02d6305d6f1720573aabad5e16b7a2614a84d44e870500c429e77d721"
+  },
+  {
+    "number": 13,
+    "lesson": "11.3",
+    "caption": "Single-entitlement roles",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore5_NOPROCESS_.png",
+    "bytes": 159039,
+    "sha256": "3dfe5c01e5d71b82c9adf9a8bdbd02d5b36d702054eed9595fec763ba73f9a77"
+  },
+  {
+    "number": 14,
+    "lesson": "11.3",
+    "caption": "Entitlement count",
+    "file": "diagrams/14.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore6_NOPROCESS_.png",
+    "bytes": 199223,
+    "sha256": "c00f4a0013b7fbf593d2ae9417c592be3f9b1e713ac6d76fee5e07917341361a"
+  },
+  {
+    "number": 15,
+    "lesson": "11.3",
+    "caption": "Standalone entitlements",
+    "file": "diagrams/15.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore7_NOPROCESS_.png",
+    "bytes": 159789,
+    "sha256": "63e6ec712252849b287482d190282130a811863546345d3d2eb3df0a5a02a3d6"
+  },
+  {
+    "number": 16,
+    "lesson": "11.3",
+    "caption": "Peer similarity",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore8_NOPROCESS_.png",
+    "bytes": 183645,
+    "sha256": "f3571a4f05e74dc8957883e39f0f758107b0de3f5411fcf313d199c5cd26cb53"
+  },
+  {
+    "number": 17,
+    "lesson": "11.3",
+    "caption": "Create a certification from an outlier",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/OutlierScore9_NOPROCESS_.png",
+    "bytes": 293491,
+    "sha256": "713a388895afcfa7f69075a008712d8a1ce98c6748c813db784c19f288095659"
+  },
+  {
+    "number": 18,
+    "lesson": "11.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/18.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/dWsl3S/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 19,
+    "lesson": "11.3",
+    "caption": "Access History",
+    "file": "diagrams/19.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-History_NOPROCESS_.svg",
+    "bytes": 1062,
+    "sha256": "c1d5bd46fbcb5b67631fc70b51147f0854500cd2913cef3cbeb53e0f1684d7b7"
+  },
+  {
+    "number": 20,
+    "lesson": "11.3",
+    "caption": "Access History navigation",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryInt_NOPROCESS.png",
+    "bytes": 194305,
+    "sha256": "a28216366a203f37f314badc409bc4a15755ccf6e3c36ad756cae6f48639b7dc"
+  },
+  {
+    "number": 21,
+    "lesson": "11.3",
+    "caption": "Access Changes panel",
+    "file": "diagrams/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS1_NOPROCESS_.png",
+    "bytes": 206688,
+    "sha256": "6ed0eaff89ca03f6d2419c767b3b3df9bfe2f315798b0ab30d7ad3c314f07cf4"
+  },
+  {
+    "number": 22,
+    "lesson": "11.3",
+    "caption": "Access Items panel",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS2_NOPROCESS_.png",
+    "bytes": 200195,
+    "sha256": "cbd9bd0199f173aabd093b073dfc65ff3f2d7685c378e90878a4d355b649d30e"
+  },
+  {
+    "number": 23,
+    "lesson": "11.3",
+    "caption": "Event Timeline",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS3_NOPROCESS_.png",
+    "bytes": 223004,
+    "sha256": "79d0d37b9a4621186e6f5c60063703e768a17df28c661064d507a0933a47c45d"
+  },
+  {
+    "number": 24,
+    "lesson": "11.3",
+    "caption": "Timeline filter",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS4_NOPROCESS_.png",
+    "bytes": 62880,
+    "sha256": "24b06a8a5d3e1c8adbcdf8bbaec228440633bd5654aa7cc78b82b4fefa71c5da"
+  },
+  {
+    "number": 25,
+    "lesson": "11.3",
+    "caption": "Entitlement added",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS5_NOPROCESS_.png",
+    "bytes": 263891,
+    "sha256": "190d92599834011b6c4ef942d0eee8a8a64ddb953de65481654dae038f9fca02"
+  },
+  {
+    "number": 26,
+    "lesson": "11.3",
+    "caption": "Access request",
+    "file": "diagrams/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS6_NOPROCESS_.png",
+    "bytes": 229278,
+    "sha256": "6db30e60ec6e4e74e27d69e04d5f7b83f3b39fe9b64eba1ca982fd967c05f429"
+  },
+  {
+    "number": 27,
+    "lesson": "11.3",
+    "caption": "Access request details",
+    "file": "diagrams/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS7_NOPROCESS_.png",
+    "bytes": 224380,
+    "sha256": "1253ab3e3027af1167617f87b14568384293a917240ed908d27d19b38549ed0b"
+  },
+  {
+    "number": 28,
+    "lesson": "11.3",
+    "caption": "Certification event",
+    "file": "diagrams/28.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AccessHistoryS8_NOPROCESS_.png",
+    "bytes": 248782,
+    "sha256": "7329526e70b96403e67ddd3fd7234a5ee17c5d31c271d2eab24fc976a3c0c82e"
+  },
+  {
+    "number": 29,
+    "lesson": "11.3",
+    "caption": "Compare Access",
+    "file": "diagrams/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/CompareAccess1_NOPROCESS_.png",
+    "bytes": 192897,
+    "sha256": "2064f7674320d1b0f286908605c4251af5f6c65702e6bbe5d1a28d55868a611a"
+  },
+  {
+    "number": 30,
+    "lesson": "11.3",
+    "caption": "Entitlement comparison",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/CompareAccess2_NOPROCESS_.png",
+    "bytes": 224615,
+    "sha256": "f91663c9b3415b6c18487d5856d9a77492479de26d285391286298330ac672b8"
+  },
+  {
+    "number": 31,
+    "lesson": "11.3",
+    "caption": "View Profile",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/CompareAccess3_NOPROCESS_.png",
+    "bytes": 207929,
+    "sha256": "77931997416a7309a8e49a38774cb49434c500825b697c63ee934a214ed3a40d"
+  },
+  {
+    "number": 32,
+    "lesson": "11.3",
+    "caption": "Access Intelligence Center",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AIC1_NOPROCESS_.png",
+    "bytes": 269332,
+    "sha256": "639be1a59f15cdfd667f127b907c053e6bc25d70764a0e8f52aabf15049b5708"
+  },
+  {
+    "number": 33,
+    "lesson": "11.3",
+    "caption": "AIC Audit",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AIC2_NOPROCESS_.png",
+    "bytes": 182716,
+    "sha256": "2df679aedc0c6447c5b596b06a39ef43b241cb40f82cd3e7bfbfa2a777ff2822"
+  },
+  {
+    "number": 34,
+    "lesson": "11.3",
+    "caption": "Access Intelligence Center entry cards",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/AIC3_NOPROCESS_.png",
+    "bytes": 122392,
+    "sha256": "3352ff1c7b8aae5658938d393bd09f8f84de22653a3aefe1bc07d7dad969cfd7"
+  },
+  {
+    "number": 35,
+    "lesson": "11.4",
+    "caption": "Access Modeling",
+    "file": "diagrams/35.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-AccessModeling_NOP.svg",
+    "bytes": 4204,
+    "sha256": "3728a54fd2224264a13834d98b433502d4849d3bc1f8651a8a539d6361ab4265"
+  },
+  {
+    "number": 36,
+    "lesson": "11.4",
+    "caption": "Role Insights dashboard",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/RoleInsightsDash1_NOPROCES.png",
+    "bytes": 232666,
+    "sha256": "390eb3affe294727cd155cbaa54df0baca375699e7e3e58712b40e79e562eecb"
+  },
+  {
+    "number": 37,
+    "lesson": "11.4",
+    "caption": "Suggested entitlement updates",
+    "file": "diagrams/37.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/RoleInsightsDash2_NOPROCES.png",
+    "bytes": 163506,
+    "sha256": "5629236a56472fac5c75cbfee6e5f92aa495966693051f8f0d436019a54baa45"
+  },
+  {
+    "number": 38,
+    "lesson": "11.4",
+    "caption": "Role Discovery from Search",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/RoleInsightsDash3_NOPROCES.png",
+    "bytes": 154526,
+    "sha256": "275e28625d1492125abbf71925dcb30bb2e51e52c9291a135e0024c8ed642e15"
+  },
+  {
+    "number": 39,
+    "lesson": "11.4",
+    "caption": "Discover Roles",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/RoleInsightsPage1_NOPROCES.png",
+    "bytes": 233725,
+    "sha256": "aeba9be0744278d3027c4184da0578eabdc0e9f8a740a57f4bd6f0ac6f925862"
+  },
+  {
+    "number": 40,
+    "lesson": "11.4",
+    "caption": "Role discovery options",
+    "file": "diagrams/40.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/RoleInsightsPage2_NOPROCES.png",
+    "bytes": 130653,
+    "sha256": "d8944aa664860542563a883ff0073495d476b0f3488e93e666d3aef7846e6c83"
+  },
+  {
+    "number": 41,
+    "lesson": "11.4",
+    "caption": "Auto-discovered roles",
+    "file": "diagrams/41.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/937Mjs/IconBanner-Process-750_NOP.svg",
+    "bytes": 1642,
+    "sha256": "21263dc4cb5dc061c79b6c4bfd918d0563f33e04cb78b584ab041793722af5e9"
+  },
+  {
+    "number": 42,
+    "lesson": "11.4",
+    "caption": "High Impact roles",
+    "file": "diagrams/42.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles1_NOPROCESS.png",
+    "bytes": 171704,
+    "sha256": "cfd10f4613a1c8e1911bdc74f00f69db14cc5081ac2f7348885af3fa8e828052"
+  },
+  {
+    "number": 43,
+    "lesson": "11.4",
+    "caption": "Role attributes",
+    "file": "diagrams/43.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles2_NOPROCESS.png",
+    "bytes": 190634,
+    "sha256": "8a131d5aac7944dbace5e09ec0e7856c698b42c96a832621006aa02fb979b5de"
+  },
+  {
+    "number": 44,
+    "lesson": "11.4",
+    "caption": "Suggested entitlements",
+    "file": "diagrams/44.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles3_NOPROCESS.png",
+    "bytes": 169926,
+    "sha256": "4da50e7637e53d4b919c822984ebfc12227634e82fd7e7086946a4216c4c5028"
+  },
+  {
+    "number": 45,
+    "lesson": "11.4",
+    "caption": "Entitlement popularity",
+    "file": "diagrams/45.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles4_NOPROCESS.png",
+    "bytes": 178801,
+    "sha256": "98248456e6b522720d4fe4df332904fc4e8e9f289eec9080fad255edd3a304f5"
+  },
+  {
+    "number": 46,
+    "lesson": "11.4",
+    "caption": "Identity Overview",
+    "file": "diagrams/46.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles5_NOPROCESS.png",
+    "bytes": 165932,
+    "sha256": "036a0b9e2b717bb0d061ccaafee1c15b784ecac413be1b1d8f9e49bf79b1be7f"
+  },
+  {
+    "number": 47,
+    "lesson": "11.4",
+    "caption": "Identity attribute distributions",
+    "file": "diagrams/47.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles6_NOPROCESS.png",
+    "bytes": 196791,
+    "sha256": "582b48252afcca66567effd063ee25c624de96dcb01192373750bd23dc00b340"
+  },
+  {
+    "number": 48,
+    "lesson": "11.4",
+    "caption": "Role discovery next steps",
+    "file": "diagrams/48.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles7_NOPROCESS.png",
+    "bytes": 196262,
+    "sha256": "50e3f6ddc2e9a35952775bb376ef1190c01fee702eeef32c4962d91bbdc406f3"
+  },
+  {
+    "number": 49,
+    "lesson": "11.4",
+    "caption": "Create the proposed role",
+    "file": "diagrams/49.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Auto-DiscoRoles8_NOPROCESS.png",
+    "bytes": 138611,
+    "sha256": "7bd1cf7d8b6ae0508a28a02d1f515105f49b078859126b85c720fdd747eb8cd3"
+  },
+  {
+    "number": 50,
+    "lesson": "11.4",
+    "caption": "Review and report",
+    "file": "diagrams/50.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-Reporting.svg",
+    "bytes": 1064,
+    "sha256": "57693616e9c0e1bf30c58d9455a9f50fb91548193a012a09590cd3db8f82e197"
+  },
+  {
+    "number": 51,
+    "lesson": "11.4",
+    "caption": "Stakeholder review",
+    "file": "diagrams/51.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Graphic-Stakeholders.svg",
+    "bytes": 2322,
+    "sha256": "fad8492e9987bc68311eafb3814b141c5cc87b34f29942c2bf23da56b6a26788"
+  },
+  {
+    "number": 52,
+    "lesson": "11.5",
+    "caption": "Recommendations",
+    "file": "diagrams/52.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/uF45cV/Graphic-AccessInsights_NOP.svg",
+    "bytes": 3445,
+    "sha256": "b9254b61855539a24be6d5c106460dfc1785e7dbb44b45a9dc35ab65dc5185a0"
+  },
+  {
+    "number": 53,
+    "lesson": "11.5",
+    "caption": "Personal access recommendations",
+    "file": "diagrams/53.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Recs1_NOPROCESS_.png",
+    "bytes": 76869,
+    "sha256": "cee94dbe8f24d123dfd00b168dbb7eff872b40075eb1090fa161582fbecc3d22"
+  },
+  {
+    "number": 54,
+    "lesson": "11.5",
+    "caption": "Certification recommendations",
+    "file": "diagrams/54.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Recs2_NOPROCESS_.png",
+    "bytes": 201190,
+    "sha256": "de7cc7a97d29da9098fca9581e32180cbca084c16d990216f12db49bd9c1996f"
+  },
+  {
+    "number": 55,
+    "lesson": "11.5",
+    "caption": "Application onboarding recommendations",
+    "file": "diagrams/55.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Recs3_NOPROCESS_.png",
+    "bytes": 274982,
+    "sha256": "4dcb973bc6e4c567620c8ac140fe97bc4e58d48f98901d6be9dd3deca23ba4e5"
+  },
+  {
+    "number": 56,
+    "lesson": "11.6",
+    "caption": "Activity Insights",
+    "file": "diagrams/56.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Artificial-Intelligence.png",
+    "bytes": 120999,
+    "sha256": "df9069a8528076569593f4c48e4d75c021c52d23da3044b311353a8a3f4f3037"
+  },
+  {
+    "number": 57,
+    "lesson": "11.6",
+    "caption": "View Activity in Access History",
+    "file": "diagrams/57.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Insights1_NOPROCESS_.png",
+    "bytes": 252158,
+    "sha256": "14126b217af358fd8494fedd98484704ceca9858dd51a1f0678ce6e2ac6ace90"
+  },
+  {
+    "number": 58,
+    "lesson": "11.6",
+    "caption": "Source usage comparison",
+    "file": "diagrams/58.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Insights2_NOPROCESS_.png",
+    "bytes": 230687,
+    "sha256": "eb7306587272985f5034947989f021d5d24b70efa163f121d5a37f340aa66706"
+  },
+  {
+    "number": 59,
+    "lesson": "11.6",
+    "caption": "Activity in request approvals",
+    "file": "diagrams/59.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Insights3_NOPROCESS_.png",
+    "bytes": 193654,
+    "sha256": "5c14e5e3f7de688153ada67f1d524c8dde044f9dd9b8b7f3b573be13db8e52c7"
+  },
+  {
+    "number": 60,
+    "lesson": "11.6",
+    "caption": "Activity in certifications",
+    "file": "diagrams/60.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Insights4_NOPROCESS_.png",
+    "bytes": 241971,
+    "sha256": "2c0a11a91371a2cf1447cf53608ed42912c713ab585758fc4ee60b9ed33b446b"
+  },
+  {
+    "number": 61,
+    "lesson": "11.6",
+    "caption": "Activity and recommendations",
+    "file": "diagrams/61.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1p2ok29fy17dc/scormcontent/assets/Insights5_NOPROCESS_.png",
+    "bytes": 147928,
+    "sha256": "4c404de2b68b43d9a76385401df729dd141dd6c6e215b9f6c4130e870d7ed720"
+  }
+]

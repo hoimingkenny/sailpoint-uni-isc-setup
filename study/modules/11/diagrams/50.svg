@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400"><defs><style>.cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #54c0e8;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }</style></defs><path class="cls-1" d="M417.62,60v64.88h64.88v-.06"/><path class="cls-1" d="M482.5,390h-235.71V60h176.79l29.46,29.46,29.46,29.46v117.86"/><path class="cls-1" d="M282.14,295.71h70.71"/><path class="cls-1" d="M282.14,260.36h129.64"/><path class="cls-2" d="M341.07,390h35.36v-58.93h-35.36v58.93Z"/><path class="cls-2" d="M400,390h35.36v-94.29h-35.36v94.29Z"/><path class="cls-2" d="M458.93,390h35.36v-129.64h-35.36v129.64Z"/><path class="cls-2" d="M517.86,390h35.36v-176.79h-35.36v176.79Z"/><path class="cls-2" d="M377.27,162.7c0,27.89-22.62,50.51-50.51,50.51s-50.51-22.62-50.51-50.51c0-27.9,22.62-50.51,50.51-50.51v50.51h50.51Z"/><path class="cls-2" d="M343.6,145.87v-50.51c27.9,0,50.51,22.61,50.51,50.51h-50.51Z"/></svg>

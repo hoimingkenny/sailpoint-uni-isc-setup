@@ -1,0 +1,407 @@
+[
+  {
+    "number": 1,
+    "lesson": "9.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/8GEOCH/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "9.2",
+    "caption": "Request process",
+    "file": "diagrams/02.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/RequestProcess_NOPROCESS_.jpg",
+    "bytes": 149454,
+    "sha256": "03de7fdd0bcfc32e732ec935fce465cddb3aac96d8ab8de14929c60f8af93288"
+  },
+  {
+    "number": 3,
+    "lesson": "9.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/03.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 4,
+    "lesson": "9.2",
+    "caption": "Section divider",
+    "file": "diagrams/04.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 5,
+    "lesson": "9.2",
+    "caption": "Choose the recipient",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L2%20Who%20ar.png",
+    "bytes": 80901,
+    "sha256": "bc8035d8883cfbd6f5ee1e7c8181d664e59e4c115d9d1e9d8b4070e073c34996"
+  },
+  {
+    "number": 6,
+    "lesson": "9.2",
+    "caption": "Find an access item",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L2%20Request.png",
+    "bytes": 96198,
+    "sha256": "648613fc043dd408bcebea724701426325178ae1bbb9b4b2974ffc5bdbbd3b1a"
+  },
+  {
+    "number": 7,
+    "lesson": "9.2",
+    "caption": "Select the access profile",
+    "file": "diagrams/07.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L2%20Choose.png",
+    "bytes": 136439,
+    "sha256": "36c4454a6db9e486321263ce633034e2314d359bc309ca73b53704c0181aeadb"
+  },
+  {
+    "number": 8,
+    "lesson": "9.2",
+    "caption": "Review the request",
+    "file": "diagrams/08.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L2%20Review.png",
+    "bytes": 48272,
+    "sha256": "bbae28cf75c6e65dd4bea752b6a7c055baff9ae84d9ccd790f05ab3b253c1c09"
+  },
+  {
+    "number": 9,
+    "lesson": "9.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/09.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/QwZ53a/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 10,
+    "lesson": "9.2",
+    "caption": "Section divider",
+    "file": "diagrams/10.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/1CO7lS/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7057,
+    "sha256": "0dc819fd1ec098dcf26e048e33e446d458c4e92310b32187cc69ab14e6a261fe"
+  },
+  {
+    "number": 11,
+    "lesson": "9.2",
+    "caption": "Access recommendations",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Access%20Request%20Recomme.png",
+    "bytes": 103174,
+    "sha256": "f370545af9da66a561119c0eba7ceb53c8c46660b37f68d01c30748d6d975eb4"
+  },
+  {
+    "number": 12,
+    "lesson": "9.2",
+    "caption": "Recommendation details",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Mw9cLT/Access%20Request%20Recomme.png",
+    "bytes": 124653,
+    "sha256": "2fdf69b8ad8c8e31ba38a2fe602cc33db6bee42a255aaab727413925cba19296"
+  },
+  {
+    "number": 13,
+    "lesson": "9.2",
+    "caption": "Request approval",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/mod08_slide10_NOPROCESS_.png",
+    "bytes": 149103,
+    "sha256": "f2b814b523922963a1d6fe3101e79ad1d483203df2c60b14ad9c8ed18f6b3bcc"
+  },
+  {
+    "number": 14,
+    "lesson": "9.2",
+    "caption": "Approvals",
+    "file": "diagrams/14.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/AccessRequests_NOPROCESS_.svg",
+    "bytes": 95036,
+    "sha256": "ab686b6bae9195aec88b9268d77ad1bfd0cddb0a28c7884b33e6e4281f92ff78"
+  },
+  {
+    "number": 15,
+    "lesson": "9.2",
+    "caption": "Provisioning fulfillment",
+    "file": "diagrams/15.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Automated%20Provisioning_N.png",
+    "bytes": 55172,
+    "sha256": "5d4494d25b59f6049be7fd51cbcf89110f9e909c67a60d01a896ea56dc929ede"
+  },
+  {
+    "number": 16,
+    "lesson": "9.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/16.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/NIJZOJ/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 17,
+    "lesson": "9.2",
+    "caption": "Section divider",
+    "file": "diagrams/17.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/rWpQ1p/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 18,
+    "lesson": "9.2",
+    "caption": "Request Center",
+    "file": "diagrams/18.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/RequestsDash_NOPROCESS_.svg",
+    "bytes": 110283,
+    "sha256": "2b5b4a459345bad35a4fc2fd0f3df61f35c5385ddcc9434877a60e14393ae714"
+  },
+  {
+    "number": 19,
+    "lesson": "9.2",
+    "caption": "My Requests",
+    "file": "diagrams/19.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/MyRequests_NOPROCESS_.svg",
+    "bytes": 106383,
+    "sha256": "343b876fc550527424aa7507b1fb1138b4688dca23093de0d78c9e355048f07a"
+  },
+  {
+    "number": 20,
+    "lesson": "9.2",
+    "caption": "Request details",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L2%20Details_.png",
+    "bytes": 214086,
+    "sha256": "e4cb1267f71886a57cdba2a4736f4c1a2fd28e9f63971ecae74173e81eb97f00"
+  },
+  {
+    "number": 21,
+    "lesson": "9.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/21.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/2ruP4c/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 22,
+    "lesson": "9.3",
+    "caption": "Request eligibility examples",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/BankScenario_NOPROCESS_.png",
+    "bytes": 418074,
+    "sha256": "5d6e077f14b13ae66588320abe601d1e994ad36f28c51a99cd33f33c1024f228"
+  },
+  {
+    "number": 23,
+    "lesson": "9.3",
+    "caption": "Configure requestable items",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/mod08_checklist_noprocess_.png",
+    "bytes": 293829,
+    "sha256": "15349cb599ec663ece0249dd553941fb3df0ec9ffb78c47e9564ec1d70aceb14"
+  },
+  {
+    "number": 24,
+    "lesson": "9.3",
+    "caption": "Set approvals",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Asset%2055_NOPROCESS.png",
+    "bytes": 87349,
+    "sha256": "5d2d9fc93b3f72f5b0e210d08362bdd3d73ee45e71fd45dc6a87b922656d0e77"
+  },
+  {
+    "number": 25,
+    "lesson": "9.3",
+    "caption": "Define segments",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Asset%2054_NOPROCESS.png",
+    "bytes": 91133,
+    "sha256": "eba50cd66430e38a8816942a5aae10ea0250defc4257f94776755efe8196d416"
+  },
+  {
+    "number": 26,
+    "lesson": "9.3",
+    "caption": "Requests on behalf of others",
+    "file": "diagrams/26.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Asset%2053.svg",
+    "bytes": 2579,
+    "sha256": "de89bbfa951965f36d5952cf3a9135f995087283ebf85548ff5cdaeee2f2cb2d"
+  },
+  {
+    "number": 27,
+    "lesson": "9.3",
+    "caption": "Role and access profile requests",
+    "file": "diagrams/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/accessreq_NOPROCESS_.png",
+    "bytes": 767554,
+    "sha256": "5f098bd308f73b5aa36b9d46f95c34f0220f44dde03146900353a6f1cb6caab7"
+  },
+  {
+    "number": 28,
+    "lesson": "9.3",
+    "caption": "Request approval settings",
+    "file": "diagrams/28.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/RequestInteractive_NOPROCE.svg",
+    "bytes": 239043,
+    "sha256": "5c834f05f79993a19bbc4baf8d32787530057487dfed89c41b1e7c72421a5bce"
+  },
+  {
+    "number": 29,
+    "lesson": "9.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/29.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/5FJL2Z/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 30,
+    "lesson": "9.3",
+    "caption": "Section divider",
+    "file": "diagrams/30.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/0OyVAJ/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "number": 31,
+    "lesson": "9.3",
+    "caption": "Entitlement requests",
+    "file": "diagrams/31.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Graphic-Automation.svg",
+    "bytes": 6938,
+    "sha256": "d9ba23bd74f32ed8a3b3cc529addbb77540094f12e15aeb4730482b657ffb923"
+  },
+  {
+    "number": 32,
+    "lesson": "9.3",
+    "caption": "Enable entitlement requests globally",
+    "file": "diagrams/32.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/EnableEntitlements_NOPROCE.svg",
+    "bytes": 146600,
+    "sha256": "c4fc3260f6b2a1c0a64ce4dc985721d02aa8a1ad6b0971008d3851a8ec51f8aa"
+  },
+  {
+    "number": 33,
+    "lesson": "9.3",
+    "caption": "Source entitlement requestability",
+    "file": "diagrams/33.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Entitlements_NOPROCESS_.svg",
+    "bytes": 184882,
+    "sha256": "762f0c2772b673069e120653c70e1d2b1d3fcc0c618b8887c6299e9ae3111faa"
+  },
+  {
+    "number": 34,
+    "lesson": "9.3",
+    "caption": "Catalog requestability",
+    "file": "diagrams/34.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Request_NOPROCESS_.svg",
+    "bytes": 170597,
+    "sha256": "2f09db0b7803ca057cb5c63d5f8d443e739d582efd16eb6c576a5428614a0f7d"
+  },
+  {
+    "number": 35,
+    "lesson": "9.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/35.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/d_q0M7/TransitionImage-Narrator-A.svg",
+    "bytes": 17137,
+    "sha256": "375bf2f44f80619a68492680893df18e52475fb1a393e58084624107d20f4eb5"
+  },
+  {
+    "number": 36,
+    "lesson": "9.3",
+    "caption": "Access request segments",
+    "file": "diagrams/36.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/Segments_NOPROCESS_.svg",
+    "bytes": 101030,
+    "sha256": "dfb710ba333b5e1f3fe1810cafab475f39409334af6e8627281d4f2e50df89cf"
+  },
+  {
+    "number": 37,
+    "lesson": "9.3",
+    "caption": "Enable requests for others",
+    "file": "diagrams/37.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/EnableRequests_NOPROCESS_.svg",
+    "bytes": 144598,
+    "sha256": "51a7bdb29ab56da9fb303f6c7ac489719cc2d0d49bd05124134ae8a22abe8557"
+  },
+  {
+    "number": 38,
+    "lesson": "9.4",
+    "caption": "Approval Management dashboard",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L4%20Dashboar.png",
+    "bytes": 93310,
+    "sha256": "bc7cf5ff2d8b3864b9e09be75b083f7d1fb33b4fba688b60a38565a7842e3bda"
+  },
+  {
+    "number": 39,
+    "lesson": "9.4",
+    "caption": "Approval navigation",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L4%20Access.png",
+    "bytes": 128106,
+    "sha256": "ddfcd80863a5d6db306d2a2328ee7e3f735a4b07facf1868e4dd3148804eb2fb"
+  },
+  {
+    "number": 40,
+    "lesson": "9.4",
+    "caption": "Dashboard administrator levels",
+    "file": "diagrams/40.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/9lWr5I/SAISC%20M8%20L4%20Dashboar.png",
+    "bytes": 318492,
+    "sha256": "7763624999e171adb9c00fe3d3b9ec7f0a2c1924a02ff5d8669ac468397c9bd0"
+  },
+  {
+    "number": 41,
+    "lesson": "9.4",
+    "caption": "Search request IDs",
+    "file": "diagrams/41.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L4%20Searchin.png",
+    "bytes": 292223,
+    "sha256": "9d311ab764de05a86d13f13d9acf7793c7f583348c9c06d77a01777336965851"
+  },
+  {
+    "number": 42,
+    "lesson": "9.4",
+    "caption": "Request filters",
+    "file": "diagrams/42.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L4%20Filterin.png",
+    "bytes": 358452,
+    "sha256": "3ed69dbd2fbbd9049f8fa4f32a293038296ad882cec08bf908f05e312aa6c12a"
+  },
+  {
+    "number": 43,
+    "lesson": "9.4",
+    "caption": "Section divider",
+    "file": "diagrams/43.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/VCi9N8/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 7436,
+    "sha256": "9ac927dde34752c5daf4d80bf6b0d25d9c4664ba42eb67bc5c7f260288ccfd6d"
+  },
+  {
+    "number": 44,
+    "lesson": "9.4",
+    "caption": "Request actions",
+    "file": "diagrams/44.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/0MySja/SAISC%20M8%20L4%20Filterin.png",
+    "bytes": 273517,
+    "sha256": "38ce46641b8f25ffb02249bb635f4428ae89ca467cf858074179223d347e7a9a"
+  },
+  {
+    "number": 45,
+    "lesson": "9.4",
+    "caption": "Request process view",
+    "file": "diagrams/45.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/31wsnecel09zn/scormcontent/assets/SAISC%20M8%20L4%20Process_.png",
+    "bytes": 479646,
+    "sha256": "953847f5a9d0b37c75adfcd93eee2ce96ce93205768ecbd14357c089437ed6c4"
+  }
+]

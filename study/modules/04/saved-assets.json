@@ -1,0 +1,371 @@
+[
+  {
+    "number": 1,
+    "lesson": "4.2",
+    "caption": "Source representation",
+    "file": "diagrams/01.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Represents_NOPROCESS_.png",
+    "bytes": 631070,
+    "sha256": "e00ea60e2052cc1438f37e016411ec428ce91a8be983eef2cbb36baa41a7e919"
+  },
+  {
+    "number": 2,
+    "lesson": "4.2",
+    "caption": "User attributes",
+    "file": "diagrams/02.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/User_NOPROCESS_.png",
+    "bytes": 591664,
+    "sha256": "bcc0456049e7dacf25894de22f5adef90d184ce8a46235a89675fe6b6b4543a7"
+  },
+  {
+    "number": 3,
+    "lesson": "4.2",
+    "caption": "Aggregation and provisioning",
+    "file": "diagrams/03.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Data_NOPROCESS_.png",
+    "bytes": 599952,
+    "sha256": "85c36d8b0df14301c6a1f721455fee9248dcd273c8f5d26427908e237e0dde26"
+  },
+  {
+    "number": 4,
+    "lesson": "4.2",
+    "caption": "Applications, databases, spreadsheets and web services",
+    "file": "diagrams/04.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Bubble_NOPROCESS_.png",
+    "bytes": 78149,
+    "sha256": "4c72c05f4e4c13c16090c3a26bb9c241fb40c4972e8c29132e87d7c50ff3897b"
+  },
+  {
+    "number": 5,
+    "lesson": "4.2",
+    "caption": "Virtual appliance connectivity",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/VirtualAppliance_NOPROCESS.png",
+    "bytes": 265057,
+    "sha256": "aef2be8e12428e71c944146c7719f278d482c2fc0891538cb58abc73dab20589"
+  },
+  {
+    "number": 6,
+    "lesson": "4.2",
+    "caption": "Connectors and VAs",
+    "file": "diagrams/06.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Connectors_NOPROCESS_.png",
+    "bytes": 405507,
+    "sha256": "9ecd40d5303460ba4000f0531834d5d57db0262ee7b352410c7ca2f489e57acd"
+  },
+  {
+    "number": 7,
+    "lesson": "4.2",
+    "caption": "Aggregation",
+    "file": "diagrams/07.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Aggregation.png",
+    "bytes": 235343,
+    "sha256": "19c28160af8ae94da46d6277ac091aedad464f38e56e54c0bccb08d1f50991a6"
+  },
+  {
+    "number": 8,
+    "lesson": "4.2",
+    "caption": "Provisioning",
+    "file": "diagrams/08.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Provisioning_Flashcard_NOP.png",
+    "bytes": 418594,
+    "sha256": "e6edcb930f4d49715d082fbcd9c8e2bf1b8d7b242101368ebbaa29e33079f222"
+  },
+  {
+    "number": 9,
+    "lesson": "4.2",
+    "caption": "Integration",
+    "file": "diagrams/09.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Integration_Flashcard_NOPR.png",
+    "bytes": 412766,
+    "sha256": "e806f8435092c12b421bec209d08001b277d0d22a2ec648ea6bf65946bc05b6d"
+  },
+  {
+    "number": 10,
+    "lesson": "4.2",
+    "caption": "Extension",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Extension_Flashcard_NOPROC.png",
+    "bytes": 410453,
+    "sha256": "ae85d74da43ab3fabcdee6a77d8c1609fb4a5ef082b2c1efd781e0184e697712"
+  },
+  {
+    "number": 11,
+    "lesson": "4.2",
+    "caption": "Narrator transition",
+    "file": "diagrams/11.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/csZRUM/TransitionImage-Narrator-M.svg",
+    "bytes": 25080,
+    "sha256": "a257080850ec8a23fb843b2f87ac73c3a50499b489906eb62a324ab36c8ed02a"
+  },
+  {
+    "number": 12,
+    "lesson": "4.2",
+    "caption": "Integration",
+    "file": "diagrams/12.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Graphic-Intergration_NOPRO.svg",
+    "bytes": 1641,
+    "sha256": "6ef1bbcb4f4fe8b90bd055196592f5b70074b2a051dd72b1b9ce289a825a34ab"
+  },
+  {
+    "number": 13,
+    "lesson": "4.2",
+    "caption": "IQService installation",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/installation_NOPROCESS_.png",
+    "bytes": 310881,
+    "sha256": "34da6929ce4167698be533f2d04c51848d213261143dae4591dee8fee3531b3e"
+  },
+  {
+    "number": 14,
+    "lesson": "4.2",
+    "caption": "IQService security",
+    "file": "diagrams/14.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/security_NOPROCESS_.png",
+    "bytes": 390036,
+    "sha256": "46901157ba443532b6e21f118c36478a0572a7c8445964c4ae7d12a7e524c6ba"
+  },
+  {
+    "number": 15,
+    "lesson": "4.2",
+    "caption": "IQService supported sources",
+    "file": "diagrams/15.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Sources_NOPROCESS_.png",
+    "bytes": 355225,
+    "sha256": "59b41023c6decfa4cef92f941c04c60749f962466af186d096d5cc2e6bbec2dd"
+  },
+  {
+    "number": 16,
+    "lesson": "4.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/16.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/DxZo5p/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 17,
+    "lesson": "4.2",
+    "caption": "Lesson footer",
+    "file": "diagrams/17.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/vbf7H5/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 18,
+    "lesson": "4.3",
+    "caption": "Preconfigured connectors",
+    "file": "diagrams/18.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Connectors_MOD03_NORPROCES.jpg",
+    "bytes": 29208,
+    "sha256": "3e0b9c4722a585ef29abcd3c7ff5432408c43419418a97e40f8412e671a9f4fa"
+  },
+  {
+    "number": 19,
+    "lesson": "4.3",
+    "caption": "Standards-based connectors",
+    "file": "diagrams/19.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/StandardConnectors_MOD03_N.jpg",
+    "bytes": 27986,
+    "sha256": "594751ef7e93370d1afb0826845517e4c9ed5e014604d4ae1be5c7bc7b393aa3"
+  },
+  {
+    "number": 20,
+    "lesson": "4.3",
+    "caption": "Advanced integration modules",
+    "file": "diagrams/20.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Adcanced_MOD03_NORPROCESS_.jpg",
+    "bytes": 33204,
+    "sha256": "65f22ebb986eeb09902a4d18635d5913d05e0208191a1cf8fd3102acc67cfc72"
+  },
+  {
+    "number": 21,
+    "lesson": "4.3",
+    "caption": "SaaS connectivity",
+    "file": "diagrams/21.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Connectivity_MOD03_NORPROC.jpg",
+    "bytes": 29833,
+    "sha256": "9b0370d1c1f317bd4bd29ed3aefccabb03e7267fc666b3f9699dabeb3957d422"
+  },
+  {
+    "number": 22,
+    "lesson": "4.3",
+    "caption": "VA-based connector",
+    "file": "diagrams/22.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/VAConnector_NOPROCESS_.svg",
+    "bytes": 1658,
+    "sha256": "ed6f9a0a50fd91214f2153a31b1ff47addcb998375a29dd9b54e8628517601d5"
+  },
+  {
+    "number": 23,
+    "lesson": "4.3",
+    "caption": "SaaS connector",
+    "file": "diagrams/23.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SaaSConnector_NOPROCESS_.svg",
+    "bytes": 2204,
+    "sha256": "0a99bb88bf72cf604459b0186744a65e977e7cdb540ce3cdd93178f74783213a"
+  },
+  {
+    "number": 24,
+    "lesson": "4.3",
+    "caption": "Microsoft Active Directory",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide17_NOPRO.png",
+    "bytes": 21445,
+    "sha256": "8307056b67aa1b9ebeb527d5837e0de150bc779f969e875077b21232f2aba6cc"
+  },
+  {
+    "number": 25,
+    "lesson": "4.3",
+    "caption": "Microsoft Entra SaaS integration",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide18_NOPRO.png",
+    "bytes": 14147,
+    "sha256": "c318f7772dc105f97cf97bee9e9e5eea6a3df6372c82b03245412dff24cf9e63"
+  },
+  {
+    "number": 26,
+    "lesson": "4.3",
+    "caption": "Delimited File connector",
+    "file": "diagrams/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide19_NOPRO.png",
+    "bytes": 11951,
+    "sha256": "f348864ffaab4bab982472821ceae947fccf6220d8d0d4d1ca113140c28d029c"
+  },
+  {
+    "number": 27,
+    "lesson": "4.3",
+    "caption": "JDBC connector",
+    "file": "diagrams/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide20_NOPRO.png",
+    "bytes": 21049,
+    "sha256": "e05df3951c8b96c9856b9180553a10e68be41e9b4828f31241915babe07dc305"
+  },
+  {
+    "number": 28,
+    "lesson": "4.4",
+    "caption": "Authoritative sources",
+    "file": "diagrams/28.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Authoritative_Flashcard_NO.png",
+    "bytes": 427466,
+    "sha256": "3673bc3af26d19acf775d4d4cabe03a8344957a08669ca6cce6ddbd875781ab4"
+  },
+  {
+    "number": 29,
+    "lesson": "4.4",
+    "caption": "Non-authoritative sources",
+    "file": "diagrams/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/nonauthoritativesources.png",
+    "bytes": 262096,
+    "sha256": "98869d9ce44d62e368864a21bf6ab398c56c031814f2a2477b9ccaa8bdb52af3"
+  },
+  {
+    "number": 30,
+    "lesson": "4.4",
+    "caption": "Source configuration components",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide23_NOPRO.png",
+    "bytes": 368101,
+    "sha256": "2d85b09f10bff5b095f0d14addb0ddd0f9bf31d0ef5339665d6a31153d9cc574"
+  },
+  {
+    "number": 31,
+    "lesson": "4.4",
+    "caption": "Connector documentation",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/ConnectorGuide_NOPROCESS_.png",
+    "bytes": 132439,
+    "sha256": "4f17c21dff616b6e20d2bf5e1efb59ad02ec032e19c2b25ea2b83a4ebbd5bed9"
+  },
+  {
+    "number": 32,
+    "lesson": "4.4",
+    "caption": "Application onboarding",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Applicationonboarding_NOPR.png",
+    "bytes": 1007565,
+    "sha256": "24b18a68f46e34b34d0cd1ed7bab0aa24ef2303b6701cdf0642b80e1c621506f"
+  },
+  {
+    "number": 33,
+    "lesson": "4.4",
+    "caption": "Automatic discovery step 1",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide32_NOPRO.png",
+    "bytes": 811577,
+    "sha256": "cbae8d7f233ce0e8be7a81583e7daa37666c5244fe95b90335f5ef3f4fca74d0"
+  },
+  {
+    "number": 34,
+    "lesson": "4.4",
+    "caption": "Automatic discovery step 2",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide33_NOPRO.png",
+    "bytes": 821372,
+    "sha256": "605a4dd89863da3abe5d0c487c4b3a67ee4d4b0d61a57d76183630a75775f702"
+  },
+  {
+    "number": 35,
+    "lesson": "4.4",
+    "caption": "Automatic discovery step 3",
+    "file": "diagrams/35.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide34_NOPRO.png",
+    "bytes": 969477,
+    "sha256": "39121d7fa157cbc1fd677b6b13d85ec9cb8572164f126a0a223f3adc8f50a68a"
+  },
+  {
+    "number": 36,
+    "lesson": "4.4",
+    "caption": "Automatic discovery step 4",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide35_NOPRO.png",
+    "bytes": 971345,
+    "sha256": "0dd51fa941010756aa2988f34022aecf922cf0ff20baf132d8da2067ebbe26e6"
+  },
+  {
+    "number": 37,
+    "lesson": "4.4",
+    "caption": "Automatic discovery step 5",
+    "file": "diagrams/37.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide36_NOPRO.png",
+    "bytes": 803769,
+    "sha256": "22e9f111d3bade49c9ff549d2e7698b80d14c48ad4c4ef814aa2e52a8b9b004c"
+  },
+  {
+    "number": 38,
+    "lesson": "4.4",
+    "caption": "Manual discovery step 1",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/Q9l7lQ/SAISC_03_ISC_Slide37_NOPRO.png",
+    "bytes": 392198,
+    "sha256": "1f6eca70dfc8263e06d1d8197ec3bee97cb312c935d15acf2b5b4a6457e3b42a"
+  },
+  {
+    "number": 39,
+    "lesson": "4.4",
+    "caption": "Manual discovery step 2",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide38_NOPRO.png",
+    "bytes": 304019,
+    "sha256": "c5480d714a256cf21262b45dcb43a4c712116980e9d4b7106cd669c51bf53c72"
+  },
+  {
+    "number": 40,
+    "lesson": "4.4",
+    "caption": "Manual discovery step 3",
+    "file": "diagrams/40.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/QWGs-K/SAISC_03_ISC_Slide39_NOPRO.png",
+    "bytes": 946520,
+    "sha256": "b3eeeb366ae0edd4fa10b4706ca4e4ae73e5ac64a2a6507b4a7c915d25549c0d"
+  },
+  {
+    "number": 41,
+    "lesson": "4.4",
+    "caption": "Application configuration recommendations",
+    "file": "diagrams/41.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/1tqyd883sax1i/scormcontent/assets/SAISC_03_ISC_Slide40_NOPRO.png",
+    "bytes": 1189394,
+    "sha256": "56047e7357fb04b7cbdcb27e32f826f6aae6a1a3b90a583dcb4d11623e5673e7"
+  }
+]

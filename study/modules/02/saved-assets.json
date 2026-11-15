@@ -1,0 +1,442 @@
+[
+  {
+    "lesson": "2.1",
+    "src": "assets/EJxplr/LessonFooterImage-CobaltGr.gif",
+    "download": "LessonFooterImage-CobaltGr.gif",
+    "id": 1,
+    "file": "diagrams/image-001.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/EJxplr/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/SailPoint%20Identity%20Sec.png",
+    "download": "SailPoint%20Identity%20Sec.png",
+    "id": 2,
+    "file": "diagrams/image-002.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/SailPoint%20Identity%20Sec.png",
+    "bytes": 58470,
+    "sha256": "0a61577246b9899423d1c802cd53892c82b2042ca2ac0ec721c0ad198c0fae6a"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/My%20SailPoint%20UI.png",
+    "download": "My%20SailPoint%20UI.png",
+    "id": 3,
+    "file": "diagrams/image-003.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/My%20SailPoint%20UI.png",
+    "bytes": 196820,
+    "sha256": "ab868d7c770aa67ed3b125ad8e499f8c86b0f1e365f803ef29abd840f51803cb"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/DC7ozA/DividerGraphic-WhiteBG-Ban.svg",
+    "download": "DividerGraphic-WhiteBG-Ban.svg",
+    "id": 4,
+    "file": "diagrams/image-004.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/DC7ozA/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide4.jpg",
+    "download": "Slide4.jpg",
+    "id": 5,
+    "file": "diagrams/image-005.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide4.jpg",
+    "bytes": 30487,
+    "sha256": "baff7fba033b263f50b15c159f6b2334d552f360374b7393a99f65c084d15f4f"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/26U6nG/Slide4.jpg",
+    "download": "Slide4 (1).jpg",
+    "id": 6,
+    "file": "diagrams/image-006.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/26U6nG/Slide4.jpg",
+    "bytes": 31467,
+    "sha256": "946b0f2ac23f30a55473668eed73f347c973ad4bca272b10454c9c3a6d319950"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/GovernanceBanner_NOPROCESS.svg",
+    "download": "GovernanceBanner_NOPROCESS.svg",
+    "id": 7,
+    "file": "diagrams/image-007.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/GovernanceBanner_NOPROCESS.svg",
+    "bytes": 44860,
+    "sha256": "c3ff566008deb571d5cf2d370aca6679124878f44bde908affdbfdc685fad1a1"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/R37By8omAgt-88FB-NtGYZFsBs.png",
+    "download": "R37By8omAgt-88FB-NtGYZFsBs.png",
+    "id": 8,
+    "file": "diagrams/image-008.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/R37By8omAgt-88FB-NtGYZFsBs.png",
+    "bytes": 724052,
+    "sha256": "3c1e56ef702134db5ed4ff9aaa6f557d3ce378d7117580c90a0daed842ec3172"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide1.PNG",
+    "download": "Slide1.PNG",
+    "id": 9,
+    "file": "diagrams/image-009.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide1.PNG",
+    "bytes": 35377,
+    "sha256": "299c8507799d93caa54471313ddb47146f759ab39b85884fdc395e03b2185cfa"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide2.PNG",
+    "download": "Slide2.PNG",
+    "id": 10,
+    "file": "diagrams/image-010.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide2.PNG",
+    "bytes": 39707,
+    "sha256": "147d7c4c1b37dd77a75a16f13fb7fba435f1d93f933705fba7048fca93a056d6"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide3.PNG",
+    "download": "Slide3.PNG",
+    "id": 11,
+    "file": "diagrams/image-011.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide3.PNG",
+    "bytes": 33136,
+    "sha256": "42223f91057ff5b3149d9dbbabc4d0404ddef4fb9cce9724e5dbf9a1d5a36d1f"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide4.PNG",
+    "download": "Slide4.PNG",
+    "id": 12,
+    "file": "diagrams/image-012.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide4.PNG",
+    "bytes": 40121,
+    "sha256": "b9e0445d6e049e9e2819c7f81e265495537263d2f625db7ffe213eba68600a8e"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide5.PNG",
+    "download": "Slide5.PNG",
+    "id": 13,
+    "file": "diagrams/image-013.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide5.PNG",
+    "bytes": 39320,
+    "sha256": "76ebf49a4c9c040b67d9ccc53afeff685d51cef72b56d1062808f88301947750"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide6.PNG",
+    "download": "Slide6.PNG",
+    "id": 14,
+    "file": "diagrams/image-014.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide6.PNG",
+    "bytes": 35572,
+    "sha256": "5c01e2ae9223d6036cb181c4f540320310cd19c2c842718f1ac7f280e80e7e07"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/Slide7.PNG",
+    "download": "Slide7.PNG",
+    "id": 15,
+    "file": "diagrams/image-015.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide7.PNG",
+    "bytes": 49150,
+    "sha256": "879daa5efef8cfe270e6a765b24c566420c42e7bf11a3782f01ca5dcb37aa0fa"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/JzYolD/TransitionImage-Narrator-A.svg",
+    "download": "TransitionImage-Narrator-A.svg",
+    "id": 16,
+    "file": "diagrams/image-016.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/JzYolD/TransitionImage-Narrator-A.svg",
+    "bytes": 27933,
+    "sha256": "7dac647c24b23d915242880ccd1b4fce620a6d6fbae8c89c5a28b89f500b4b32"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/KCIconBanner_NOPROCESS_.svg",
+    "download": "KCIconBanner_NOPROCESS_ (2).svg",
+    "id": 17,
+    "file": "diagrams/image-017.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "lesson": "2.2",
+    "src": "assets/SLuqzf/LessonFooterImage-CobaltGr.gif",
+    "download": "LessonFooterImage-CobaltGr (1).gif",
+    "id": 18,
+    "file": "diagrams/image-018.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/SLuqzf/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "src": "assets/0v3MfgPbc3qdYLU1bqKHUQ.png",
+    "download": "0v3MfgPbc3qdYLU1bqKHUQ.png",
+    "lesson": "2.3",
+    "id": 19,
+    "file": "diagrams/image-019.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/0v3MfgPbc3qdYLU1bqKHUQ.png",
+    "bytes": 472764,
+    "sha256": "71d349fc82fc4335d615b01d6701fb5e0fa6f4d50d5361bfa896b94fcd11c278"
+  },
+  {
+    "src": "assets/Adu3njI0WbGgMicSfBnfGg.png",
+    "download": "Adu3njI0WbGgMicSfBnfGg.png",
+    "lesson": "2.3",
+    "id": 20,
+    "file": "diagrams/image-020.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Adu3njI0WbGgMicSfBnfGg.png",
+    "bytes": 674664,
+    "sha256": "454b46092794a97e5b3635386a31144460e8c1d75e41d0d8b55eabf6708c2d8f"
+  },
+  {
+    "src": "assets/Item%201%20Source%20config.png",
+    "download": "Item%201%20Source%20config.png",
+    "lesson": "2.3",
+    "id": 21,
+    "file": "diagrams/image-021.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Item%201%20Source%20config.png",
+    "bytes": 26864,
+    "sha256": "e103128fd6547ed0c636931a61429a77b43e50369f656164d84909635e7639c2"
+  },
+  {
+    "src": "assets/Item%202%20Identity%20data.png",
+    "download": "Item%202%20Identity%20data.png",
+    "lesson": "2.3",
+    "id": 22,
+    "file": "diagrams/image-022.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Item%202%20Identity%20data.png",
+    "bytes": 24729,
+    "sha256": "3b1b1b8d628e0de171815eff59d9f7196de3eadfa3a06f7d70eb7b8b41142bcb"
+  },
+  {
+    "src": "assets/ZkHzvC/Item%201%20Source%20config.png",
+    "download": "Item%201%20Source%20config (1).png",
+    "lesson": "2.3",
+    "id": 23,
+    "file": "diagrams/image-023.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/ZkHzvC/Item%201%20Source%20config.png",
+    "bytes": 25227,
+    "sha256": "4effeefcaab9de4d0bb9e1e87ae538485bf438d05f529a0f287c3b562114d851"
+  },
+  {
+    "src": "assets/2025Rise-DividerGraphic_NO.png",
+    "download": "2025Rise-DividerGraphic_NO.png",
+    "lesson": "2.3",
+    "id": 24,
+    "file": "diagrams/image-024.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/2025Rise-DividerGraphic_NO.png",
+    "bytes": 24483,
+    "sha256": "78e4bd4c07309f3dab27cdbc44d161c28d8373c1fab5bb5f1174af0ec18cebb4"
+  },
+  {
+    "src": "assets/03.%20WindowsOS_New%20onbo.png",
+    "download": "03.%20WindowsOS_New%20onbo.png",
+    "lesson": "2.3",
+    "id": 25,
+    "file": "diagrams/image-025.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/03.%20WindowsOS_New%20onbo.png",
+    "bytes": 109353,
+    "sha256": "e36d066a9dd3f9bd1a00e9168eb80fd033f0ce0a5b8de57af7cd8ee103cada13"
+  },
+  {
+    "src": "assets/Aggregation%202.png",
+    "download": "Aggregation%202.png",
+    "lesson": "2.3",
+    "id": 26,
+    "file": "diagrams/image-026.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Aggregation%202.png",
+    "bytes": 397070,
+    "sha256": "07cdea6409a200b37bf416decde26e471f084f7b8d83672440a5c9dac3095195"
+  },
+  {
+    "src": "assets/Aggregation%203.png",
+    "download": "Aggregation%203.png",
+    "lesson": "2.3",
+    "id": 27,
+    "file": "diagrams/image-027.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Aggregation%203.png",
+    "bytes": 409967,
+    "sha256": "a73b7058e76a146708f3d4cb6377efdfdc1205245ee500fc2fa95611b470b831"
+  },
+  {
+    "src": "assets/access%20model%204.png",
+    "download": "access%20model%204.png",
+    "lesson": "2.3",
+    "id": 28,
+    "file": "diagrams/image-028.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/access%20model%204.png",
+    "bytes": 405264,
+    "sha256": "234393df7f6c7d4fac35a082c6187c2f12cf2c40da868d1e5b8ae4983bfc5da9"
+  },
+  {
+    "src": "assets/provisioning%205.png",
+    "download": "provisioning%205.png",
+    "lesson": "2.3",
+    "id": 29,
+    "file": "diagrams/image-029.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/provisioning%205.png",
+    "bytes": 416877,
+    "sha256": "3e58a21e25afc7bc950c96db2a629206454a74900b65b6921f5e30317e2f7685"
+  },
+  {
+    "src": "assets/Slide%2020.png",
+    "download": "Slide%2020.png",
+    "lesson": "2.3",
+    "id": 30,
+    "file": "diagrams/image-030.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide%2020.png",
+    "bytes": 45558,
+    "sha256": "563b5602245da21d8c9b02cc2f9ed74a4fd85c0cbfbea474b9fff0b5eb6a0168"
+  },
+  {
+    "src": "assets/Slide%2021.png",
+    "download": "Slide%2021.png",
+    "lesson": "2.3",
+    "id": 31,
+    "file": "diagrams/image-031.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide%2021.png",
+    "bytes": 50690,
+    "sha256": "8ea26edaf0945a883e25b3ccf81d42894228362fef0206c426229ef59db900a0"
+  },
+  {
+    "src": "assets/Slide%2022.png",
+    "download": "Slide%2022.png",
+    "lesson": "2.3",
+    "id": 32,
+    "file": "diagrams/image-032.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide%2022.png",
+    "bytes": 55967,
+    "sha256": "1a12e746bd8878075e7cd374fac9c552031630bb54933343ec667ac87cddb796"
+  },
+  {
+    "src": "assets/Slide%2023.png",
+    "download": "Slide%2023.png",
+    "lesson": "2.3",
+    "id": 33,
+    "file": "diagrams/image-033.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Slide%2023.png",
+    "bytes": 46452,
+    "sha256": "594a4001035e162afff072e16a70e9468231a7affe91e1b76d719de3de3edeb6"
+  },
+  {
+    "src": "assets/wV7vjx/KCIconBanner_NOPROCESS_.svg",
+    "download": "KCIconBanner_NOPROCESS_ (3).svg",
+    "lesson": "2.3",
+    "id": 34,
+    "file": "diagrams/image-034.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/wV7vjx/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "src": "assets/TransitionImage-NarratorA_.png",
+    "download": "TransitionImage-NarratorA_.png",
+    "lesson": "2.4",
+    "id": 35,
+    "file": "diagrams/image-035.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/TransitionImage-NarratorA_.png",
+    "bytes": 42109,
+    "sha256": "39ef29cbdc914f46c3e08218938173a86b2cda98e08035051a9e71e0bd66c9e9"
+  },
+  {
+    "src": "assets/1_Admin.png",
+    "download": "1_Admin.png",
+    "lesson": "2.4",
+    "id": 36,
+    "file": "diagrams/image-036.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/1_Admin.png",
+    "bytes": 23855,
+    "sha256": "9e54ffbf6e091bd5b369320f22c5a1b4094420b3a7e509f9e31babb6d3081e46"
+  },
+  {
+    "src": "assets/2_Special%20level%20admin.png",
+    "download": "2_Special%20level%20admin.png",
+    "lesson": "2.4",
+    "id": 37,
+    "file": "diagrams/image-037.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/2_Special%20level%20admin.png",
+    "bytes": 24502,
+    "sha256": "955d9134ef4304808182e1ae0106ac01f3c63b92ce10443ed5be368a6750f1d1"
+  },
+  {
+    "src": "assets/3_Sub%20admin.png",
+    "download": "3_Sub%20admin.png",
+    "lesson": "2.4",
+    "id": 38,
+    "file": "diagrams/image-038.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/3_Sub%20admin.png",
+    "bytes": 22214,
+    "sha256": "89fe154f7d26ed6a19fa075fd03afb21a07c3658b66304ea263d54f59bf402f3"
+  },
+  {
+    "src": "assets/4_End%20user.png",
+    "download": "4_End%20user.png",
+    "lesson": "2.4",
+    "id": 39,
+    "file": "diagrams/image-039.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/4_End%20user.png",
+    "bytes": 20611,
+    "sha256": "11d22b2f66cc7331f0c3a4576627d51f0a04460b0840bee4226ac87b6d3f9ebf"
+  },
+  {
+    "src": "assets/NyAhwi/DividerGraphic-WhiteBG-Ban.svg",
+    "download": "DividerGraphic-WhiteBG-Ban (1).svg",
+    "lesson": "2.4",
+    "id": 40,
+    "file": "diagrams/image-040.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/NyAhwi/DividerGraphic-WhiteBG-Ban.svg",
+    "bytes": 8213,
+    "sha256": "fcad735d24cbeab6447a6d557e1769220707b1f3e22fed3f4a857a521683b393"
+  },
+  {
+    "src": "assets/User%20invitation.png",
+    "download": "User%20invitation.png",
+    "lesson": "2.4",
+    "id": 41,
+    "file": "diagrams/image-041.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/User%20invitation.png",
+    "bytes": 109099,
+    "sha256": "93f286d8e8add1a7e9920fd2eb0c35e0c586f4242ebc4d25865e1394017708a0"
+  },
+  {
+    "src": "assets/End%20users.png",
+    "download": "End%20users.png",
+    "lesson": "2.4",
+    "id": 42,
+    "file": "diagrams/image-042.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/End%20users.png",
+    "bytes": 354404,
+    "sha256": "f05dd135835490a4a37feebd54dd7e4c450b1a060c106f800ff2278addba70a0"
+  },
+  {
+    "src": "assets/Picture1.png",
+    "download": "Picture1.png",
+    "lesson": "2.4",
+    "id": 43,
+    "file": "diagrams/image-043.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/Picture1.png",
+    "bytes": 80275,
+    "sha256": "48be64b16f2199144afe6e13a135babf3bed829fd4be1d39074d1cdb67028cf0"
+  },
+  {
+    "src": "assets/LDNtRK/KCIconBanner_NOPROCESS_.svg",
+    "download": "KCIconBanner_NOPROCESS_ (4).svg",
+    "lesson": "2.4",
+    "id": 44,
+    "file": "diagrams/image-044.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2ys6jjri7diri/scormcontent/assets/LDNtRK/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  }
+]

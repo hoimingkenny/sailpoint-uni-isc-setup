@@ -1,0 +1,353 @@
+[
+  {
+    "number": 1,
+    "lesson": "5.1",
+    "caption": "Lesson footer",
+    "file": "diagrams/01.gif",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/XbTw3R/LessonFooterImage-CobaltGr.gif",
+    "bytes": 4045643,
+    "sha256": "aa4669d95712de5dee3d9dd4f4791656650ba7a4e8f1648fe27eee50f0aa3e4b"
+  },
+  {
+    "number": 2,
+    "lesson": "5.2",
+    "caption": "Digital identities",
+    "file": "diagrams/02.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Digital%20Identity_NOPROGR.jpg",
+    "bytes": 39571,
+    "sha256": "9d5d374f8349b5f744152e2ee2137342919e8d5774cb4ff05a06aca122d0b042"
+  },
+  {
+    "number": 3,
+    "lesson": "5.2",
+    "caption": "Identity attributes",
+    "file": "diagrams/03.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Identity_NOPROCESS_.png",
+    "bytes": 267152,
+    "sha256": "4b960a5239ba7fb90948bccf8f07d189ac2862e921a8a407dd9a53c501bee473"
+  },
+  {
+    "number": 4,
+    "lesson": "5.2",
+    "caption": "Access elements",
+    "file": "diagrams/04.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Access_NOPROCESS_.png",
+    "bytes": 278279,
+    "sha256": "c6c1446c65bc2b1355cdfaca7b4d4223ed65f1f3e81351cd1664cfcbb79384e1"
+  },
+  {
+    "number": 5,
+    "lesson": "5.2",
+    "caption": "Accounts",
+    "file": "diagrams/05.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Accounts.png",
+    "bytes": 95151,
+    "sha256": "c4b8046182993a3711ba47c2020e5ad49a3ec62148f9d300257666fc464a97b7"
+  },
+  {
+    "number": 6,
+    "lesson": "5.2",
+    "caption": "Knowledge check",
+    "file": "diagrams/06.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/z19W2_/KCIconBanner_NOPROCESS_.svg",
+    "bytes": 2377,
+    "sha256": "12347580e4c938ff98a8050a6ff602ea651a753131a09fde2dca79aaa233ad7b"
+  },
+  {
+    "number": 7,
+    "lesson": "5.3",
+    "caption": "Seven onboarding steps",
+    "file": "diagrams/07.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Your%20paragraph%20text%20.png",
+    "bytes": 78566,
+    "sha256": "efc26b311afdd1190889c0604f20f02e76de6bc99e03990f1c0b4c24e9f9525a"
+  },
+  {
+    "number": 8,
+    "lesson": "5.3",
+    "caption": "Narrator transition",
+    "file": "diagrams/08.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/352NEa/TransitionImage-Narrator-M.svg",
+    "bytes": 17030,
+    "sha256": "28974ca066d43620c793eed9249bc3a39cc0c8d6a68af4e4a9bc322555e34e2f"
+  },
+  {
+    "number": 9,
+    "lesson": "5.3",
+    "caption": "Clean source data",
+    "file": "diagrams/09.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/cleandata_norocess.png",
+    "bytes": 108714,
+    "sha256": "60c32dce843ef82083ed77c9ac588c49c938522c9232be59ac6ca4e85077b825"
+  },
+  {
+    "number": 10,
+    "lesson": "5.3",
+    "caption": "Data quality and outcomes",
+    "file": "diagrams/10.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/garbage%20in%20garbage%20o.png",
+    "bytes": 41168,
+    "sha256": "c06d68184bf33781eb67d6133cfe92b47737c60a0d6a2585eb990d0bcaa43a08"
+  },
+  {
+    "number": 11,
+    "lesson": "5.3",
+    "caption": "Data hygiene",
+    "file": "diagrams/11.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Datahygiene_NOPROGRESS_.png",
+    "bytes": 119157,
+    "sha256": "e61d1f2e0df1180f57c3b9a2c60361ae209ad3cfbcc21ba1e8b249d065521df7"
+  },
+  {
+    "number": 12,
+    "lesson": "5.3",
+    "caption": "Data quality",
+    "file": "diagrams/12.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/DataQuality_NOPROGRESS_.png",
+    "bytes": 98233,
+    "sha256": "66fbd3e8be59b78d6577dabb69ad63050c8c6f921bed26a18195faaa21f1ecc6"
+  },
+  {
+    "number": 13,
+    "lesson": "5.3",
+    "caption": "Data integrity",
+    "file": "diagrams/13.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/DataIntegrity_NOPROGRESS_.png",
+    "bytes": 117525,
+    "sha256": "79f78c312546f3763510c898fa6af8702e2f6fcb94c5b471bc298c0b838ca5ba"
+  },
+  {
+    "number": 14,
+    "lesson": "5.3",
+    "caption": "Inconsistent country codes",
+    "file": "diagrams/14.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/UKExample_NOPROGRESS_.png",
+    "bytes": 43652,
+    "sha256": "f3fcf8961ad81ba2763a7b1e22f047858a4cf964cd95c9ac765852ad13863812"
+  },
+  {
+    "number": 15,
+    "lesson": "5.3",
+    "caption": "Access-model cleanup reminder",
+    "file": "diagrams/15.svg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/StatementBanner-Narrator-M.svg",
+    "bytes": 26738,
+    "sha256": "25b2d86808a0e5a36faacd7dbe26be9c9cc213b71e2d3cd9b15070191237a03b"
+  },
+  {
+    "number": 16,
+    "lesson": "5.4",
+    "caption": "Authoritative configuration stage",
+    "file": "diagrams/16.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/FSsdEu/Your%20paragraph%20text%20.png",
+    "bytes": 159446,
+    "sha256": "1243c11267390ab40015183ac7b939b4d366a1cf43aee2f0e53ba9ea878fb4ab"
+  },
+  {
+    "number": 17,
+    "lesson": "5.4",
+    "caption": "Authoritative source",
+    "file": "diagrams/17.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/AuthoritativeSource_NOPROC.png",
+    "bytes": 424098,
+    "sha256": "06da83bc0e05474db17a07663bf1c1e3e44c8fa62d329f276790bd8717173772"
+  },
+  {
+    "number": 18,
+    "lesson": "5.4",
+    "caption": "Non-authoritative source",
+    "file": "diagrams/18.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/NonAuthoritativeSource_NOP.png",
+    "bytes": 431029,
+    "sha256": "3ffea8cea0856cc348411e6082d28f73fe43ba2fdf10d559dd567b9c3723ab94"
+  },
+  {
+    "number": 19,
+    "lesson": "5.4",
+    "caption": "Source configuration components",
+    "file": "diagrams/19.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/TH4Zc_/Your%20paragraph%20text%20.png",
+    "bytes": 60906,
+    "sha256": "ddad00a08b477e656b1390031997aec7adddb62904e9a1064c746186fa11be97"
+  },
+  {
+    "number": 20,
+    "lesson": "5.4",
+    "caption": "Create identity profile",
+    "file": "diagrams/20.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2015_NOPROCESS.png",
+    "bytes": 125101,
+    "sha256": "44737a327bc48c8f22d9af1e56f7407ca18f6061d72d73ff8077041953184595"
+  },
+  {
+    "number": 21,
+    "lesson": "5.4",
+    "caption": "Identity profile sign-in settings",
+    "file": "diagrams/21.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2016_NOPROCESS.png",
+    "bytes": 60095,
+    "sha256": "7e03f9104d86a741a4302ebdf02d78a2bfd5d9b12eedce7b15979c32b2b61bd6"
+  },
+  {
+    "number": 22,
+    "lesson": "5.4",
+    "caption": "Identity profile security settings",
+    "file": "diagrams/22.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2017_NOPROCESS.png",
+    "bytes": 77350,
+    "sha256": "f6e723c76f5fd38dadddcbbb26ccbddd723331f796eb78a5818caa145d9c55a0"
+  },
+  {
+    "number": 23,
+    "lesson": "5.4",
+    "caption": "Identity attribute mappings",
+    "file": "diagrams/23.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Profiles_NOPROCESS_.png",
+    "bytes": 208151,
+    "sha256": "743172ef73068bcf9f9f58edce26960253af4fcc7535b9e41dd8a072d664e979"
+  },
+  {
+    "number": 24,
+    "lesson": "5.4",
+    "caption": "Lifecycle management",
+    "file": "diagrams/24.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2018_NOPROCESS.png",
+    "bytes": 56886,
+    "sha256": "b675b8257b2b72899c5c355f02f77045d60db552dbd1ccfbafdec0bc8c69230b"
+  },
+  {
+    "number": 25,
+    "lesson": "5.4",
+    "caption": "Contractor lifecycle states",
+    "file": "diagrams/25.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Contractors_NOPROCESS.png",
+    "bytes": 54650,
+    "sha256": "38681a7beb8db66f0326c8df83fdcad07400808cdfc6a6e5aee32dc10681bdf8"
+  },
+  {
+    "number": 26,
+    "lesson": "5.4",
+    "caption": "Lifecycle state settings",
+    "file": "diagrams/26.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2020_NOPROCESS.png",
+    "bytes": 81508,
+    "sha256": "bd1c2ffe6b09645ed33cdfb5cd0b688fd5b833647223df0d101ed495258733ef"
+  },
+  {
+    "number": 27,
+    "lesson": "5.4",
+    "caption": "Manager correlation",
+    "file": "diagrams/27.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/SAISC%20M4%20L4%20Manager.png",
+    "bytes": 5873,
+    "sha256": "adb37bad2d3c1023c10d2f7c67ccaaacd100e9547c862441b775cea4dd91bf5b"
+  },
+  {
+    "number": 28,
+    "lesson": "5.4",
+    "caption": "Manager correlation fields",
+    "file": "diagrams/28.jpg",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/SAISC%20M4%20L4%20Manager.jpg",
+    "bytes": 76008,
+    "sha256": "1ee15a5156950c5c97f4a16cf60dd5d85dc16d946c4bcffaf2f13235476ca0ae"
+  },
+  {
+    "number": 29,
+    "lesson": "5.5",
+    "caption": "Aggregation stage",
+    "file": "diagrams/29.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/0PzzbA/Your%20paragraph%20text%20.png",
+    "bytes": 90464,
+    "sha256": "c97e77ab0a273c6b9ad1e8b53df83f2a3214fc0c7c927c05c66030c889398cee"
+  },
+  {
+    "number": 30,
+    "lesson": "5.5",
+    "caption": "Aggregation step 1",
+    "file": "diagrams/30.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/IkopyH/Your%20paragraph%20text%20.png",
+    "bytes": 22326,
+    "sha256": "5cfc72d475a5af837491951aa58ae9f90740dfd306fff42e751286d6e94f6870"
+  },
+  {
+    "number": 31,
+    "lesson": "5.5",
+    "caption": "Aggregation step 2",
+    "file": "diagrams/31.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Amykag/Your%20paragraph%20text%20.png",
+    "bytes": 20410,
+    "sha256": "4a0fa84236c1e31d0b924ee28f6b3244acfbe015e7d9000f56970c6f38fd1435"
+  },
+  {
+    "number": 32,
+    "lesson": "5.5",
+    "caption": "Aggregation step 3",
+    "file": "diagrams/32.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Lmfym0/Your%20paragraph%20text%20.png",
+    "bytes": 54474,
+    "sha256": "593be045c96e263233ad26d14145191dbcd095b049506fe3170545abfc2b2e04"
+  },
+  {
+    "number": 33,
+    "lesson": "5.5",
+    "caption": "Aggregation step 4",
+    "file": "diagrams/33.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/p_sZTW/Your%20paragraph%20text%20.png",
+    "bytes": 91319,
+    "sha256": "2b33083a1e2b54888d10bc6bc0f1825b45773893a9f4c3d7188d259a575b5144"
+  },
+  {
+    "number": 34,
+    "lesson": "5.5",
+    "caption": "Aggregation step 5",
+    "file": "diagrams/34.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/61y4Dm/Your%20paragraph%20text%20.png",
+    "bytes": 89299,
+    "sha256": "339d3163f66090afd2f683460297996bf4694adde1dec165c909eed010b25465"
+  },
+  {
+    "number": 35,
+    "lesson": "5.5",
+    "caption": "Aggregation step 6",
+    "file": "diagrams/35.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/3tCAbE/Your%20paragraph%20text%20.png",
+    "bytes": 94941,
+    "sha256": "565fb211cde9da6f0cc1b13543d162c4c456d7ea603343c48c65c8952f23ec84"
+  },
+  {
+    "number": 36,
+    "lesson": "5.5",
+    "caption": "Apply Changes",
+    "file": "diagrams/36.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/Asset%2021_NOPROCESS.png",
+    "bytes": 15884,
+    "sha256": "ef31c7e588f6ab2da14b40ea5938d00befce0acb21a7e6e45681ce77d35da530"
+  },
+  {
+    "number": 37,
+    "lesson": "5.6",
+    "caption": "Exception review stage",
+    "file": "diagrams/37.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/ryc7KN/Your%20paragraph%20text%20.png",
+    "bytes": 67059,
+    "sha256": "bf3636e499400a74149a14ee79810b339a673d5e383ea00c698f3143237019ab"
+  },
+  {
+    "number": 38,
+    "lesson": "5.6",
+    "caption": "Identity exception lists",
+    "file": "diagrams/38.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/SAISC%20M4%20L6%20Identiti.png",
+    "bytes": 131535,
+    "sha256": "89574c544ed0e69b636ca772ee98c1d6262b52caa5c17c099e83d6c5d5206a13"
+  },
+  {
+    "number": 39,
+    "lesson": "5.6",
+    "caption": "Incomplete identity details",
+    "file": "diagrams/39.png",
+    "source_url": "https://university.sailpoint.com/content/wp/e736kas11dtm/2p3e9dbgcasx4/scormcontent/assets/SAISC%20M4%20L6%20Incomple.png",
+    "bytes": 115670,
+    "sha256": "7a3771f18d8e97cb65a9010b9deef031a1ddb3dcc624ac7061bbe06faa650388"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "module": 3,
+  "lessons_read": [
+    "Overview",
+    "Tenant architecture",
+    "Global configurations",
+    "Implementation strategies",
+    "Virtual appliance administration",
+    "Recap"
+  ],
+  "saved_inline_image_urls": 50,
+  "known_unsaved_background_paths": [
+    "assets/2-Gh5h36bP76602T.jpg",
+    "assets/LessonBanner-Narrator-Ian_.svg",
+    "assets/P6FKlm/LessonBanner-Narrator-Ian_.svg",
+    "assets/qMm-Wx/LessonBanner-Narrator-Ian_.svg",
+    "assets/bJDb-p/LessonBanner-Narrator-Ian_.svg",
+    "assets/sxcmWX/LessonBanner-Narrator-Ian_.svg",
+    "assets/RecapBanner-Narrator-Ian_N.svg"
+  ],
+  "expanded_interactions": "All five architecture benefit accordions, global configuration tabs and email process panels, VA analogy panels, four VA markers, five communication accordions, seven deployment best-practice accordions and two monitoring markers read.",
+  "limitations": [
+    "Sorting activity already displayed completion; individual cards not reconstructed. No replay or quiz submission.",
+    "External linked articles and deployment documentation not captured.",
+    "No video/audio transcript was separately exported; visual assets retained as files."
+  ]
+}

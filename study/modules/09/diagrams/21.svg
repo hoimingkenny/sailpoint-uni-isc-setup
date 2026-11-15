@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Illustration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #e6ebf6;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="3300" height="300"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1709.66" y1="241.96" x2="1634.26" y2="125.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#54c0e8"/>
+      <stop offset=".37" stop-color="#2394e1"/>
+      <stop offset="1" stop-color="#0033a1"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" x="1571.25" y="73.25" width="158" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2.5"/>
+      <feGaussianBlur result="blur" stdDeviation="1.25"/>
+      <feFlood flood-color="#415364" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-5">
+    <g id="Banner">
+      <rect class="cls-3" y="-14" width="3300" height="328"/>
+      <polygon class="cls-6" points="0 0 0 307 3300 307 0 0"/>
+      <g>
+        <circle class="cls-4" cx="1650" cy="150" r="75"/>
+        <g>
+          <path class="cls-1" d="M1674.11,136.61c0-6.39-2.54-12.53-7.06-17.05-4.52-4.52-10.65-7.06-17.05-7.06s-12.53,2.54-17.05,7.06c-4.52,4.52-7.06,10.65-7.06,17.05v1.34"/>
+          <path class="cls-1" d="M1663.31,136.53c0-3.53-1.4-6.92-3.9-9.41-2.5-2.5-5.88-3.9-9.41-3.9s-6.92,1.4-9.41,3.9c-2.5,2.5-3.9,5.88-3.9,9.41v1.42"/>
+          <path class="cls-1" d="M1663.31,136.53c0,3.53-1.4,6.92-3.9,9.41-2.5,2.5-5.88,3.9-9.41,3.9h-5.36v17.57"/>
+          <path class="cls-1" d="M1650,187.5c2.96,0,5.36-2.4,5.36-5.36s-2.4-5.36-5.36-5.36-5.36,2.4-5.36,5.36,2.4,5.36,5.36,5.36Z"/>
+          <path class="cls-1" d="M1674.11,136.61c0,5.35-1.77,10.54-5.05,14.77-3.27,4.23-7.86,7.25-13.03,8.58l-.67.16v7.29"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
